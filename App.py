@@ -2,6 +2,7 @@ from datetime import datetime
 import json
 import os
 import csv
+import io
 import openpyxl
 from openpyxl.styles import Font, PatternFill, Alignment, Border, Side
 from reportlab.lib import colors
@@ -199,35 +200,49 @@ else:
           st.error("Arquivo não encontrado.")
 
     elif menu_master == "Gerar Relatórios":
-      st.subheader("📊 Central de Relatórios")
+      st.subheader("📊 Central de Relatórios Gerais")
       if not dados["registros"]:
         st.info("Não há registros suficientes para gerar relatórios.")
       else:
         agora = datetime.now()
         timestamp_arquivo = agora.strftime("%d-%m-%Y_%H-%M-%S")
         
-        col1, col2, col3 = st.columns(3)
+        col1, col2 = st.columns(2)
         
         with col1:
-          if st.button("Gerar CSV Geral"):
-            nome_csv = f"relatorio_escala_{timestamp_arquivo}.csv"
-            with open(nome_csv, mode="w", newline="", encoding="utf-8-sig") as arquivo:
-              escritor = csv.writer(arquivo, delimiter=";")
-              escritor.writerow(["Colaborador", "Setor", "Coordenador", "HE 50%", "HE 100%", "Sobreaviso Líq (h)"])
-              for reg in dados["registros"]:
-                escritor.writerow([reg["nome"], reg["setor"], reg["coordenador_nome"], reg["he_50"], reg["he_100"], reg["sobreaviso_liquido"]])
-            st.success(f"Arquivo CSV gerado: {nome_csv}")
+          # CSV em Memória para Download Direto
+          output_csv = io.StringIO()
+          escritor = csv.writer(output_csv, delimiter=";")
+          escritor.writerow(["Colaborador", "Setor", "Coordenador", "HE 50%", "HE 100%", "Sobreaviso Líq (h)", "Falta", "Férias", "Atestado"])
+          for reg in dados["registros"]:
+            escritor.writerow([reg["nome"], reg["setor"], reg["coordenador_nome"], reg["he_50"], reg["he_100"], reg["sobreaviso_liquido"], reg["falta"], reg["ferias"], reg["atestado"]])
+          
+          st.download_button(
+              label="📥 Baixar Relatório Geral (CSV)",
+              data=output_csv.getvalue().encode("utf-8-sig"),
+              file_name=f"relatorio_escala_{timestamp_arquivo}.csv",
+              mime="text/csv"
+          )
 
         with col2:
-          if st.button("Gerar XLSX Geral"):
-            nome_xlsx = f"relatorio_escala_{timestamp_arquivo}.xlsx"
-            wb = openpyxl.Workbook()
-            ws = wb.active
-            ws.append(["Colaborador", "Setor", "Coordenador", "HE 50%", "HE 100%", "Sobreaviso Líq (h)"])
-            for reg in dados["registros"]:
-              ws.append([reg["nome"], reg["setor"], reg["coordenador_nome"], reg["he_50"], reg["he_100"], reg["sobreaviso_liquido"]])
-            wb.save(nome_xlsx)
-            st.success(f"Arquivo Excel gerado: {nome_xlsx}")
+          # XLSX em Memória para Download Direto
+          wb = openpyxl.Workbook()
+          ws = wb.active
+          ws.title = "Relatório Geral"
+          ws.append(["Colaborador", "Setor", "Coordenador", "HE 50%", "HE 100%", "Sobreaviso Líq (h)", "Falta", "Férias", "Atestado"])
+          for reg in dados["registros"]:
+            ws.append([reg["nome"], reg["setor"], reg["coordenador_nome"], reg["he_50"], reg["he_100"], reg["sobreaviso_liquido"], reg["falta"], reg["ferias"], reg["atestado"]])
+          
+          output_xlsx = io.BytesIO()
+          wb.save(output_xlsx)
+          output_xlsx.seek(0)
+
+          st.download_button(
+              label="📥 Baixar Relatório Geral (XLSX)",
+              data=output_xlsx,
+              file_name=f"relatorio_escala_{timestamp_arquivo}.xlsx",
+              mime="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+          )
 
   # --- PAINEL DO COORDENADOR ---
   elif st.session_state.tipo_usuario == "coordenador":
@@ -252,7 +267,6 @@ else:
         nomes_setor = [c["nome"] for c in colab_setor]
         colab_escolhido = st.selectbox("Selecione o Colaborador", nomes_setor)
 
-        # Verificar se já existe registro
         reg_existente = next((r for r in dados["registros"] if r["nome"] == colab_escolhido and r["setor"] == setor_coord), None)
 
         with st.form("form_ocorrencia"):
@@ -265,7 +279,7 @@ else:
           dias_u = st.number_input("Dias de Sobreaviso em Dias ÚTEIS (x 12h)", min_value=0, step=1, value=int(reg_existente["dias_uteis"]) if reg_existente else 0)
           dias_nu = st.number_input("Dias de Sobreaviso em Dias NÃO ÚTEIS (x 24h)", min_value=0, step=1, value=int(reg_existente["dias_nao_uteis"]) if reg_existente else 0)
 
-          ad_not = st.selectbox("Adicional Noturno", ["Não", "Sim", "Detalhes"], index=0 if not reg_existente else 0)
+          ad_not = st.selectbox("Adicional Noturno", ["Não", "Sim", "Detalhes"], index=0)
           falta_s = st.selectbox("Possui Falta?", ["Não", "Sim"], index=0)
           ferias_s = st.selectbox("Está de Férias?", ["Não", "Sim"], index=0)
           atestado_s = st.text_input("Atestado Médico (Sim/Não/Dias)", value=reg_existente["atestado"] if reg_existente else "Não")
@@ -294,7 +308,6 @@ else:
                 "historico_alteracao": "Atualizado/Registrado por Coordenador" if reg_existente else "Registro Original"
             }
 
-            # Remover antigo se existir e adicionar o atualizado
             dados["registros"] = [r for r in dados["registros"] if not (r["nome"] == colab_escolhido and r["setor"] == setor_coord)]
             dados["registros"].append(novo_reg)
             salvar_dados(dados)
@@ -315,7 +328,7 @@ else:
             st.markdown("---")
 
     elif menu_coord == "Gerar Relatórios do Setor":
-      st.subheader("📊 Exportar Relatórios")
+      st.subheader("📊 Exportar Relatórios do Setor")
       registros_setor = [r for r in dados["registros"] if r["setor"].lower() == setor_coord.lower()]
       if not registros_setor:
         st.info("Não há dados suficientes no seu setor para exportar.")
@@ -323,12 +336,37 @@ else:
         setor_limpo = setor_coord.replace(" ", "_").replace(".", "")
         timestamp_arquivo = datetime.now().strftime("%d-%m-%Y_%H-%M-%S")
         
-        if st.button("Gerar Relatório XLSX do Setor"):
-          nome_xlsx = f"relatorio_setor_{setor_limpo}_{timestamp_arquivo}.xlsx"
+        col1, col2 = st.columns(2)
+        
+        with col1:
+          output_csv_setor = io.StringIO()
+          escritor = csv.writer(output_csv_setor, delimiter=";")
+          escritor.writerow(["Colaborador", "Setor", "HE 50%", "HE 100%", "Dias Úteis", "Dias Não Úteis", "Sobreaviso Líq (h)", "Falta", "Férias", "Atestado"])
+          for reg in registros_setor:
+            escritor.writerow([reg["nome"], reg["setor"], reg["he_50"], reg["he_100"], reg["dias_uteis"], reg["dias_nao_uteis"], reg["sobreaviso_liquido"], reg["falta"], reg["ferias"], reg["atestado"]])
+          
+          st.download_button(
+              label="📥 Baixar Relatório do Setor (CSV)",
+              data=output_csv_setor.getvalue().encode("utf-8-sig"),
+              file_name=f"relatorio_setor_{setor_limpo}_{timestamp_arquivo}.csv",
+              mime="text/csv"
+          )
+
+        with col2:
           wb = openpyxl.Workbook()
           ws = wb.active
-          ws.append(["Colaborador", "Setor", "HE 50%", "HE 100%", "Dias Úteis", "Dias Não Úteis", "Sobreaviso Líq (h)"])
+          ws.title = "Escala Setor"
+          ws.append(["Colaborador", "Setor", "HE 50%", "HE 100%", "Dias Úteis", "Dias Não Úteis", "Sobreaviso Líq (h)", "Falta", "Férias", "Atestado"])
           for reg in registros_setor:
-            ws.append([reg["nome"], reg["setor"], reg["he_50"], reg["he_100"], reg["dias_uteis"], reg["dias_nao_uteis"], reg["sobreaviso_liquido"]])
-          wb.save(nome_xlsx)
-          st.success(f"Relatório Excel gerado com sucesso: {nome_xlsx}")
+            ws.append([reg["nome"], reg["setor"], reg["he_50"], reg["he_100"], reg["dias_uteis"], reg["dias_nao_uteis"], reg["sobreaviso_liquido"], reg["falta"], reg["ferias"], reg["atestado"]])
+          
+          output_xlsx_setor = io.BytesIO()
+          wb.save(output_xlsx_setor)
+          output_xlsx_setor.seek(0)
+
+          st.download_button(
+              label="📥 Baixar Relatório do Setor (XLSX)",
+              data=output_xlsx_setor,
+              file_name=f"relatorio_setor_{setor_limpo}_{timestamp_arquivo}.xlsx",
+              mime="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+          )
