@@ -1,0 +1,2407 @@
+[
+  {
+    "nome": "ADEMAR JARDIM DE LIMA",
+    "funcao": "AGENTE COMUNITARIO DE SAUDE",
+    "setor": "RIBEIRINHA"
+  },
+  {
+    "nome": "ADRIA SUELEM DE SOUZA ANTUNES",
+    "funcao": "TECNICO EM ENFERMAGEM",
+    "setor": "U.B.S. BOA VISTA DE CUCARI"
+  },
+  {
+    "nome": "ADRIANA PEDROSO MARQUES",
+    "funcao": "AGENTE COMUNITARIO DE SAUDE",
+    "setor": "URUARA"
+  },
+  {
+    "nome": "ADRIANE MENEZES BALTAZAR",
+    "funcao": "TECNICO EM ENFERMAGEM",
+    "setor": "U.M.S. WILSON RIBEIRO"
+  },
+  {
+    "nome": "ADRIANO LIMA DA SILVA",
+    "funcao": "CIRURGIAO DENTISTA",
+    "setor": "U.B.S JATUARANA - IOLENE TEIXEIRA."
+  },
+  {
+    "nome": "ADRIEL PENA DA CONCEICAO",
+    "funcao": "AGENTE COMUNITARIO DE SAUDE",
+    "setor": "U.B.S PACOVAL"
+  },
+  {
+    "nome": "AGDA SOUZA ROCHA",
+    "funcao": "TECNICO EM ENFERMAGEM",
+    "setor": "RIBEIRINHA"
+  },
+  {
+    "nome": "AGUIDA PINTO ANDRADE",
+    "funcao": "AGENTE COMUNITARIO DE SAUDE",
+    "setor": "U.B.S. SERGIO AMARAL PINGARILHO"
+  },
+  {
+    "nome": "ALBERTO PEREIRA PINGARILHO",
+    "funcao": "TECNICO EM VIG SANITARIA",
+    "setor": "VIGILÂNCIA SANITÁRIA"
+  },
+  {
+    "nome": "ALCELITH PIRES COELHO",
+    "funcao": "AGENTE DE PORTARIA",
+    "setor": "U.M.S. WILSON RIBEIRO"
+  },
+  {
+    "nome": "ALCIONE CASTILHO MAGNO DOS SANTOS",
+    "funcao": "AGENTE COMUNITARIO DE SAUDE",
+    "setor": "URUARA"
+  },
+  {
+    "nome": "ALCIONE PEREIRA DOS SANTOS",
+    "funcao": "AGENTE COMUNITARIO DE SAUDE",
+    "setor": "U.B.S SAO SEBASTIÃO"
+  },
+  {
+    "nome": "ALCIVONE DE SOUZA FONSECA",
+    "funcao": "AGENTE COMUNITARIO DE SAUDE",
+    "setor": "U.B.S. BOA VISTA DE CUCARI"
+  },
+  {
+    "nome": "ALDELY DE ANDRADE BENICIO",
+    "funcao": "AGENTE COMUNITARIO DE SAUDE",
+    "setor": "U.B.S SAO SEBASTIÃO"
+  },
+  {
+    "nome": "ALDO DO NASCIMENTO DA CONCEICAO",
+    "funcao": "FISIOTERAPEUTA",
+    "setor": "U.M.S. WILSON RIBEIRO"
+  },
+  {
+    "nome": "ALESSANDRA ALMEIDA PIRES",
+    "funcao": "ENFERMEIRO",
+    "setor": "U.M.S. WILSON RIBEIRO"
+  },
+  {
+    "nome": "ALESSANDRO ARAUJO AIRES",
+    "funcao": "SERVICOS GERAIS",
+    "setor": "U.M.S. WILSON RIBEIRO"
+  },
+  {
+    "nome": "ALESSANDRO JATI SILVA",
+    "funcao": "TECNICO EM ENFERMAGEM",
+    "setor": "PACOVAL"
+  },
+  {
+    "nome": "ALEX EMERSON ARAUJO AYRES",
+    "funcao": "MOTORISTA - CAT. B",
+    "setor": "U.M.S. WILSON RIBEIRO"
+  },
+  {
+    "nome": "ALEXSANDRA GUEDES PIRES",
+    "funcao": "AUXILIAR ADMINISTRATIVO",
+    "setor": "TFD"
+  },
+  {
+    "nome": "ALINE NONATA LIMA ALBARADO",
+    "funcao": "FARMACEUTICO \\ BIOQUIMICO",
+    "setor": "U.M.S. WILSON RIBEIRO"
+  },
+  {
+    "nome": "ALINE SUELEM DA SILVA CONSTANCIO",
+    "funcao": "SERVICOS GERAIS",
+    "setor": "U.M.S. WILSON RIBEIRO"
+  },
+  {
+    "nome": "ALLINY MARIA BARROSO DA MOTA",
+    "funcao": "PSICOLOGO",
+    "setor": "U.M.S. WILSON RIBEIRO"
+  },
+  {
+    "nome": "ALMIR FLORENCA DA PAZ",
+    "funcao": "MOTORISTA - CAT. B",
+    "setor": "U.M.S. WILSON RIBEIRO"
+  },
+  {
+    "nome": "AMANDA MIKELE CARDOSO CARVALHO",
+    "funcao": "SERVICOS GERAIS",
+    "setor": "U.B.S. BOA VISTA DE CUCARI"
+  },
+  {
+    "nome": "ANA ALICE PIMENTEL DANTAS",
+    "funcao": "AUXILIAR EM ENFERMAGEM",
+    "setor": "COLONIA"
+  },
+  {
+    "nome": "ANA BEATRIZ CARVALHO LIMA",
+    "funcao": "TECNICO EM ENFERMAGEM",
+    "setor": "U.B.S SAO SEBASTIÃO"
+  },
+  {
+    "nome": "ANA CLAUDIA DE SOUZA LOPES",
+    "funcao": "TECNICO EM ENFERMAGEM",
+    "setor": "U.B.S PACOVAL"
+  },
+  {
+    "nome": "ANA CRISTINA DOS SANTOS CERQUEIRA",
+    "funcao": "AGENTE COMUNITARIO DE SAUDE",
+    "setor": "U.B.S SAO SEBASTIÃO"
+  },
+  {
+    "nome": "ANDERSON MORAES DA CUNHA",
+    "funcao": "AGENTE DE VIGILANCIA EM SAUDE",
+    "setor": "VIGILÂNCIA SANITÁRIA"
+  },
+  {
+    "nome": "ANDRE JOAO FLEXA DOS REIS",
+    "funcao": "VIGIA",
+    "setor": "U.B.S. SERGIO AMARAL PINGARILHO"
+  },
+  {
+    "nome": "ANDRE JOAQUIM SOUZA JARDIM",
+    "funcao": "MARINHEIRO FLUVIAL DE COMANDO",
+    "setor": "SANTA MARIA DO URUARA"
+  },
+  {
+    "nome": "ANDRE XAVIER FLORENCIO DA SILVA",
+    "funcao": "AGENTE COMUNITARIO DE SAUDE",
+    "setor": "U.B.S. BOA VISTA DE CUCARI"
+  },
+  {
+    "nome": "ANDREA DE SOUZA FERNANDES",
+    "funcao": "AGENTE COMUNITARIO DE SAUDE",
+    "setor": "Equi. Prainha"
+  },
+  {
+    "nome": "ANDRELINA FERNANDES DA SILVA",
+    "funcao": "AGENTE COMUNITARIO DE SAUDE",
+    "setor": "URUARA"
+  },
+  {
+    "nome": "ANDRESSA REGINA MARQUES BORGES",
+    "funcao": "ENFERMEIRO",
+    "setor": "U.B.S. BOA VISTA DE CUCARI"
+  },
+  {
+    "nome": "ANDRIA JOVANDRA MACHADO SERRAO",
+    "funcao": "TECNICO EM ENFERMAGEM",
+    "setor": "U.B.S SAO SEBASTIAO"
+  },
+  {
+    "nome": "ANDRYELE BRASIL DE SOUZA",
+    "funcao": "TECNICO EM ENFERMAGEM",
+    "setor": "U.M.S. WILSON RIBEIRO"
+  },
+  {
+    "nome": "ANGELICA DA ROCHA FERREIRA",
+    "funcao": "AGENTE COMUNITARIO DE SAUDE",
+    "setor": "COLONIA"
+  },
+  {
+    "nome": "ANGELO ALLEN SOARES BATISTA",
+    "funcao": "AGENTE COMUNITARIO DE SAUDE",
+    "setor": "U.B.S SAO SEBASTIÃO"
+  },
+  {
+    "nome": "ANTONIO HUMBERTO DOS SANTOS BRASIL",
+    "funcao": "TECNICO EM ENFERMAGEM",
+    "setor": "U.M.S. WILSON RIBEIRO"
+  },
+  {
+    "nome": "ANTONIO JOSE FERREIRA PEREIRA",
+    "funcao": "TECNICO EM RADIOLOGIA",
+    "setor": "U.M.S. WILSON RIBEIRO"
+  },
+  {
+    "nome": "ANTONIO MARQUES DE ARAUJO NETO",
+    "funcao": "AGENTE COMUNITARIO DE SAUDE",
+    "setor": "URUARA"
+  },
+  {
+    "nome": "ARENILDA DIAS FERREIRA",
+    "funcao": "TECNICO EM ENFERMAGEM",
+    "setor": "U.M.S. WILSON RIBEIRO"
+  },
+  {
+    "nome": "ARIAMIRO DOS SANTOS SILVA JUNIOR",
+    "funcao": "ENFERMEIRO",
+    "setor": "U.B.S. BOA VISTA DE CUCARI"
+  },
+  {
+    "nome": "ARILENE DA SILVA ABREU",
+    "funcao": "TECNICO EM ENFERMAGEM",
+    "setor": ""
+  },
+  {
+    "nome": "ARLISON DOUGLAS DE OLIVEIRA FRIAS",
+    "funcao": "VIGIA",
+    "setor": "U.M.S. WILSON RIBEIRO"
+  },
+  {
+    "nome": "ARLISSON FERREIRA DA SILVA",
+    "funcao": "MOTORISTA - CAT. B",
+    "setor": "CASA DE APOIO - SANTARÉM"
+  },
+  {
+    "nome": "AURIMAR SILVA DOS SANTOS",
+    "funcao": "VIGIA",
+    "setor": "U.B.S PACOVAL"
+  },
+  {
+    "nome": "BEIZE MENDES ZAQUIL",
+    "funcao": "AUXILIAR EM ENFERMAGEM",
+    "setor": "U.B.S. BOA VISTA DE CUCARI"
+  },
+  {
+    "nome": "BENEDITA DAS GRACAS SANTOS DOS SANTOS",
+    "funcao": "TECNICO EM ENFERMAGEM",
+    "setor": "Equi. Prainha"
+  },
+  {
+    "nome": "BENEDITA SILVA",
+    "funcao": "MICROSCOPISTA",
+    "setor": "U.B.S SANTA MARIA"
+  },
+  {
+    "nome": "BENEDITO PIRES MORAES",
+    "funcao": "FARMACEUTICO \\ BIOQUIMICO",
+    "setor": "SECRETARIA MUNICIPAL DE SAUDE"
+  },
+  {
+    "nome": "BENEJUNHO DA COSTA CONCEICAO",
+    "funcao": "TECNICO EM ENFERMAGEM",
+    "setor": "U.B.S. BOA VISTA DE CUCARI"
+  },
+  {
+    "nome": "BENEZAIDI FURTADO MAGNO",
+    "funcao": "ENFERMEIRO",
+    "setor": "U.M.S. WILSON RIBEIRO"
+  },
+  {
+    "nome": "BRENDO FELIPE LUCAS PIRES",
+    "funcao": "TECNICO EM VIG SANITARIA",
+    "setor": "VIGILÂNCIA SANITÁRIA"
+  },
+  {
+    "nome": "CARLA BIANCA SANCHES MENDES",
+    "funcao": "PROFESSOR",
+    "setor": "CAPS"
+  },
+  {
+    "nome": "CARLA DOS SANTOS FUZIEL",
+    "funcao": "AGENTE COMUNITARIO DE SAUDE",
+    "setor": "COLONIA"
+  },
+  {
+    "nome": "CARLA SUSANE CAMPOS CARVALHO",
+    "funcao": "DIRETOR DE DEPARTAMENTO",
+    "setor": "SECRETARIA MUNICIPAL DE SAUDE"
+  },
+  {
+    "nome": "CARLILEY DE ARAUJO MOURA",
+    "funcao": "AGENTE COMUNITARIO DE SAUDE",
+    "setor": "U.B.S JATUARANA - IOLENE TEIXEIRA."
+  },
+  {
+    "nome": "CARLISON MEDEIROS FERREIRA",
+    "funcao": "VIGIA",
+    "setor": "U.B.S JATUARANA - IOLENE TEIXEIRA."
+  },
+  {
+    "nome": "CARLOS ADEMIR CARVALHO BENICIO",
+    "funcao": "TECNICO EM ENFERMAGEM",
+    "setor": "U.M.S. WILSON RIBEIRO"
+  },
+  {
+    "nome": "CARLOS AUGUSTO PIMENTEL DANTAS",
+    "funcao": "MOTORISTA - CAT. B",
+    "setor": ""
+  },
+  {
+    "nome": "CARMELINA FROTA RAMOS",
+    "funcao": "TECNICO EM ENFERMAGEM",
+    "setor": "Equi. Prainha"
+  },
+  {
+    "nome": "CARMEM HENRIQUE DE LIMA",
+    "funcao": "AUXILIAR EM ENFERMAGEM",
+    "setor": "Equi. Prainha"
+  },
+  {
+    "nome": "CASSIANE MAGNO DA CUNHA",
+    "funcao": "TECNICO EM ENFERMAGEM",
+    "setor": "U.B.S. SERGIO AMARAL PINGARILHO"
+  },
+  {
+    "nome": "CHISLANY CARLA PEREIRA DOS SANTOS",
+    "funcao": "TECNICO EM ENFERMAGEM",
+    "setor": "U.M.S. WILSON RIBEIRO"
+  },
+  {
+    "nome": "CHISTIAN ALEXANDRE PANTOJA",
+    "funcao": "MOTORISTA - CAT. B",
+    "setor": "U.B.S. BOA VISTA DE CUCARI"
+  },
+  {
+    "nome": "CLAUDIANE NAYARA DA COSTA GUEDES",
+    "funcao": "AGENTE COMUNITARIO DE SAUDE",
+    "setor": "SEDE"
+  },
+  {
+    "nome": "CLAYSE FERNANDA MOTA PINGARILHO",
+    "funcao": "ENFERMEIRO",
+    "setor": "SEDE"
+  },
+  {
+    "nome": "CLAYTON NED MIRANDA DE OLIVEIRA",
+    "funcao": "AUXILIAR EM ENFERMAGEM",
+    "setor": "MELHOR EM CASA"
+  },
+  {
+    "nome": "CLEBSON DA SILVA FREITAS",
+    "funcao": "AGENTE COMUNITARIO DE SAUDE",
+    "setor": "U.B.S SAO SEBASTIÃO"
+  },
+  {
+    "nome": "CLEDILZA LIMA BATISTA",
+    "funcao": "AGENTE COMUNITARIO DE SAUDE",
+    "setor": "SEDE"
+  },
+  {
+    "nome": "CLEIA RAIMUNDA PEREIRA LUCAS",
+    "funcao": "AUXILIAR EM ENFERMAGEM",
+    "setor": "SEDE"
+  },
+  {
+    "nome": "CLEILDE CORREA PEREIRA",
+    "funcao": "VIGIA",
+    "setor": "U.B.S SAO SEBASTIÃO"
+  },
+  {
+    "nome": "CLEIRY CASTOR AIRES",
+    "funcao": "SERVICOS GERAIS",
+    "setor": "U.M.S. WILSON RIBEIRO"
+  },
+  {
+    "nome": "CLEONICE DE SOUZA LOPES",
+    "funcao": "SERVICOS GERAIS",
+    "setor": "U.B.S PACOVAL"
+  },
+  {
+    "nome": "CLYVERTON SANTOS DOS SANTOS",
+    "funcao": "TECNICO EM ENFERMAGEM",
+    "setor": "U.B.S. SERGIO AMARAL PINGARILHO"
+  },
+  {
+    "nome": "CREUZA RAIMUNDA PEREIRA LUCAS",
+    "funcao": "AUXILIAR EM ENFERMAGEM",
+    "setor": "SEDE"
+  },
+  {
+    "nome": "CRISTIELI MONTE VERDE DA PAIXAO",
+    "funcao": "TECNICO EM ENFERMAGEM",
+    "setor": "U.B.S. BOA VISTA DE CUCARI"
+  },
+  {
+    "nome": "CYNTHIA DO SOCORRO LUCAS ESQUERDO",
+    "funcao": "AUXILIAR EM ENFERMAGEM",
+    "setor": "RIBEIRINHA"
+  },
+  {
+    "nome": "DAIANA ALHO RODRIGUES FLEXA",
+    "funcao": "AUXILIAR ADMINISTRATIVO",
+    "setor": "RIBEIRINHA"
+  },
+  {
+    "nome": "DAIANNE MIRANDA OLIVEIRA",
+    "funcao": "TECNICO EM ENFERMAGEM",
+    "setor": "CASA DE APOIO - SANTARÉM"
+  },
+  {
+    "nome": "DALIENE FERREIRA BRASIL",
+    "funcao": "ENFERMEIRO",
+    "setor": "U.M.S. WILSON RIBEIRO"
+  },
+  {
+    "nome": "DAMAZIO BRAZ DELMIRO",
+    "funcao": "SERVICOS GERAIS",
+    "setor": "U.M.S. WILSON RIBEIRO"
+  },
+  {
+    "nome": "DANDARA BRONE NUNES",
+    "funcao": "TECNICO EM ENFERMAGEM",
+    "setor": "U.B.S SAO SEBASTIÃO"
+  },
+  {
+    "nome": "DANIELE DA SILVA E SILVA",
+    "funcao": "AGENTE COMUNITARIO DE SAUDE",
+    "setor": "URUARA"
+  },
+  {
+    "nome": "DANIELLE FUZIEL FERREIRA AZEVEDO",
+    "funcao": "ENFERMEIRO",
+    "setor": "U.M.S. WILSON RIBEIRO"
+  },
+  {
+    "nome": "DARLIENE DA SILVA SANCHES",
+    "funcao": "AGENTE COMUNITARIO DE SAUDE",
+    "setor": "URUARA"
+  },
+  {
+    "nome": "DARLISON GONCALVES DA SILVA",
+    "funcao": "TECNICO EM RADIOLOGIA",
+    "setor": "U.M.S. WILSON RIBEIRO"
+  },
+  {
+    "nome": "DAVI PUREZA FERREIRA",
+    "funcao": "AUXILIAR ADMINISTRATIVO",
+    "setor": "U.B.S PACOVAL"
+  },
+  {
+    "nome": "DAYANE ARRUDA DOS SANTOS",
+    "funcao": "TECNICO EM ENFERMAGEM",
+    "setor": "U.B.S. BOA VISTA DE CUCARI"
+  },
+  {
+    "nome": "DAYSA NAIANDRA SANTOS DA SILVA",
+    "funcao": "ENFERMEIRO",
+    "setor": "U.M.S. WILSON RIBEIRO"
+  },
+  {
+    "nome": "DEBORA VIEGAS DE CARVALHO",
+    "funcao": "AGENTE DE ENDEMIAS",
+    "setor": "VIGILÂNCIA SANITÁRIA"
+  },
+  {
+    "nome": "DENILSON FERREIRA DA SILVA",
+    "funcao": "VIGIA",
+    "setor": "U.B.S SAO SEBASTIÃO"
+  },
+  {
+    "nome": "DGENANNE VAZ GUEDES FLEXA",
+    "funcao": "SERVICOS GERAIS",
+    "setor": "TFD"
+  },
+  {
+    "nome": "DIANE BARROSO DOS SANTOS",
+    "funcao": "SERVICOS GERAIS",
+    "setor": "U.B.S SANTA MARIA"
+  },
+  {
+    "nome": "DIEGO AZEVEDO DE JESUS",
+    "funcao": "VIGIA",
+    "setor": "SEDE"
+  },
+  {
+    "nome": "DIEGO SILVA PAIVA",
+    "funcao": "TECNICO EM ENFERMAGEM",
+    "setor": "SECRETARIA MUNICIPAL DE SAUDE"
+  },
+  {
+    "nome": "DILZA DE SOUZA MONTEIRO",
+    "funcao": "SERVICOS GERAIS",
+    "setor": "U.M.S. WILSON RIBEIRO"
+  },
+  {
+    "nome": "DIVANILDS IBIAPINO DA SILVA",
+    "funcao": "AGENTE COMUNITARIO DE SAUDE",
+    "setor": "RIBEIRINHA"
+  },
+  {
+    "nome": "DONIZETE CARVALHO DOS SANTOS",
+    "funcao": "MARINHEIRO FLUVIAL DE CONVES",
+    "setor": "U.B.S. BOA VISTA DE CUCARI"
+  },
+  {
+    "nome": "DULCIANA PRISCILA DA COSTA LEMOS",
+    "funcao": "ASSISTENTE SOCIAL",
+    "setor": "CAPS"
+  },
+  {
+    "nome": "EBERTON SILVA DOS SANTOS",
+    "funcao": "TECNICO EM ENFERMAGEM",
+    "setor": "SANTA CRUZ - URUARA"
+  },
+  {
+    "nome": "EDEM ELIDIO BARROS DA SILVA",
+    "funcao": "VIGIA",
+    "setor": "U.B.S. BOA VISTA DE CUCARI"
+  },
+  {
+    "nome": "EDILENE BRASIL CRUZ DE SOUSA",
+    "funcao": "ENFERMEIRO",
+    "setor": "Equi. Prainha"
+  },
+  {
+    "nome": "EDIMARA DO NASCIMENTO CARVALHO",
+    "funcao": "AGENTE COMUNITARIO DE SAUDE",
+    "setor": "U.B.S. BOA VISTA DE CUCARI"
+  },
+  {
+    "nome": "EDINELMA GARSON PEREIRA",
+    "funcao": "AGENTE COMUNITARIO DE SAUDE",
+    "setor": "U.M.S. WILSON RIBEIRO"
+  },
+  {
+    "nome": "EDINELMA VIEGAS DE OLIVEIRA SANTANA",
+    "funcao": "TECNICO EM LABORATORIO",
+    "setor": "U.M.S. WILSON RIBEIRO"
+  },
+  {
+    "nome": "EDIONE NASCIMENTO DA CONCEICAO",
+    "funcao": "TECNICO EM ENFERMAGEM",
+    "setor": "TAMUATAI"
+  },
+  {
+    "nome": "EDIONE PIRES BRUCE",
+    "funcao": "ENFERMEIRO",
+    "setor": "RIBEIRINHA"
+  },
+  {
+    "nome": "EDIRRONE PEREIRA DA SILVA",
+    "funcao": "AGENTE COMUNITARIO DE SAUDE",
+    "setor": "U.B.S SAO SEBASTIÃO"
+  },
+  {
+    "nome": "EDIVANIA SILVA DOS SANTOS",
+    "funcao": "TECNICO EM ENFERMAGEM",
+    "setor": "U.B.S SANTA MARIA"
+  },
+  {
+    "nome": "EDNA DOS SANTOS FURTADO",
+    "funcao": "SERVICOS GERAIS",
+    "setor": "U.M.S. WILSON RIBEIRO"
+  },
+  {
+    "nome": "EDNA PEREIRA TENORIO",
+    "funcao": "SERVICOS GERAIS",
+    "setor": "U.M.S. WILSON RIBEIRO"
+  },
+  {
+    "nome": "EDSON MORAES PIRES",
+    "funcao": "AGENTE DE VIGILANCIA EM SAUDE",
+    "setor": "VIGILÂNCIA SANITÁRIA"
+  },
+  {
+    "nome": "EDU DA SILVA QUEIROZ",
+    "funcao": "AGENTE COMUNITARIO DE SAUDE",
+    "setor": "SEDE"
+  },
+  {
+    "nome": "EDUARDO VICENTE FERREIRA NETO",
+    "funcao": "MOTORISTA - CAT. B",
+    "setor": "U.B.S. BOA VISTA DE CUCARI"
+  },
+  {
+    "nome": "ELANE DOS SANTOS COSTA",
+    "funcao": "TECNICO EM HIGIENE DENTAL",
+    "setor": "U.M.S. WILSON RIBEIRO"
+  },
+  {
+    "nome": "ELBA CRISTINA AMORIM ESQUERDO",
+    "funcao": "TECNICO EM ENFERMAGEM",
+    "setor": "U.B.S JATUARANA - IOLENE TEIXEIRA."
+  },
+  {
+    "nome": "ELCIMARA FARIAS RIBEIRO",
+    "funcao": "ENFERMEIRO",
+    "setor": "U.M.S. WILSON RIBEIRO"
+  },
+  {
+    "nome": "ELCIONE PIRES",
+    "funcao": "AGENTE COMUNITARIO DE SAUDE",
+    "setor": "Equi. Prainha"
+  },
+  {
+    "nome": "ELDENICE OLIVEIRA DE FRANCA",
+    "funcao": "SERVICOS GERAIS",
+    "setor": "COLONIA"
+  },
+  {
+    "nome": "ELDIANE MENDES FREITAS",
+    "funcao": "MICROSCOPISTA",
+    "setor": "U.B.S SANTA MARIA"
+  },
+  {
+    "nome": "ELIANDRA DA SILVA PAIXAO",
+    "funcao": "TECNICO EM ENFERMAGEM",
+    "setor": "U.M.S. WILSON RIBEIRO"
+  },
+  {
+    "nome": "ELIANE FERREIRA CORREA",
+    "funcao": "AGENTE COMUNITARIO DE SAUDE",
+    "setor": "SEDE"
+  },
+  {
+    "nome": "ELIAS DOS SANTOS FIGUEIRA",
+    "funcao": "AGENTE COMUNITARIO DE SAUDE",
+    "setor": "U.B.S PACOVAL"
+  },
+  {
+    "nome": "ELIONAI MARTINS BARBOSA",
+    "funcao": "VIGIA",
+    "setor": "URUARA"
+  },
+  {
+    "nome": "ELIONETE FURTADO ALVARENGA",
+    "funcao": "TECNICO EM ENFERMAGEM",
+    "setor": "URUARA"
+  },
+  {
+    "nome": "ELISANDRA RIBEIRO DE ALMEIDA",
+    "funcao": "SERVICOS GERAIS",
+    "setor": "U.B.S PACOVAL"
+  },
+  {
+    "nome": "ELIZABEL SILVA PINHO",
+    "funcao": "AGENTE COMUNITARIO DE SAUDE",
+    "setor": "U.B.S SAO SEBASTIÃO"
+  },
+  {
+    "nome": "ELIZANGELA ARAUJO PEREIRA BARBOSA",
+    "funcao": "AGENTE COMUNITARIO DE SAUDE",
+    "setor": "U.B.S JATUARANA - IOLENE TEIXEIRA."
+  },
+  {
+    "nome": "ELIZETE DA SILVA BRITO",
+    "funcao": "ENFERMEIRO",
+    "setor": "CASA DE APOIO - SANTARÉM"
+  },
+  {
+    "nome": "ELIZIANE MORAES PIRES DO NASCIMENTO",
+    "funcao": "DIRETOR DE DEPARTAMENTO",
+    "setor": "SEDE"
+  },
+  {
+    "nome": "ELMAZIA DAS GRACAS AMORIM ESQUERDO",
+    "funcao": "AGENTE COMUNITARIO DE SAUDE",
+    "setor": "Equi. Prainha"
+  },
+  {
+    "nome": "ELOANA PINTO DA CUNHA",
+    "funcao": "AUXILIAR ADMINISTRATIVO",
+    "setor": "U.M.S. WILSON RIBEIRO"
+  },
+  {
+    "nome": "ELUINA ALVARENGA DE SOUZA",
+    "funcao": "AGENTE COMUNITARIO DE SAUDE",
+    "setor": "URUARA"
+  },
+  {
+    "nome": "ELZILEIA PIMENTEL CORREA",
+    "funcao": "TECNICO EM ENFERMAGEM",
+    "setor": "U.B.S. BOA VISTA DE CUCARI"
+  },
+  {
+    "nome": "EMANUEL DE CASTRO PIRES FILHO",
+    "funcao": "MOTORISTA- CAT. B SAUDE",
+    "setor": "U.M.S. WILSON RIBEIRO"
+  },
+  {
+    "nome": "EMERSON DOS SANTOS PIRES",
+    "funcao": "SERVICOS GERAIS",
+    "setor": "U.M.S. WILSON RIBEIRO"
+  },
+  {
+    "nome": "EMERSON DOUGLAS ANTUNES DA SILVA",
+    "funcao": "TECNICO EM ENFERMAGEM",
+    "setor": "U.B.S. BOA VISTA DE CUCARI"
+  },
+  {
+    "nome": "ENALDO GOMES FERREIRA",
+    "funcao": "VIGIA",
+    "setor": "U.M.S. WILSON RIBEIRO"
+  },
+  {
+    "nome": "ERALDO GUILHERME DOS SANTOS SA",
+    "funcao": "SECRETARIO (A)",
+    "setor": "SEDE"
+  },
+  {
+    "nome": "ERICK GONZAGA DOS SANTOS",
+    "funcao": "VIGIA",
+    "setor": "U.M.S. WILSON RIBEIRO"
+  },
+  {
+    "nome": "ERISON SANTOS CORREA",
+    "funcao": "VIGIA",
+    "setor": "U.B.S. BOA VISTA DE CUCARI"
+  },
+  {
+    "nome": "ERIVELTON DOS SANTOS PIRES",
+    "funcao": "TECNICO EM VIG SANITARIA",
+    "setor": "VIGILÂNCIA SANITÁRIA"
+  },
+  {
+    "nome": "ESMAELINO DA GAMA ALEIXO",
+    "funcao": "AGENTE COMUNITARIO DE SAUDE",
+    "setor": "U.B.S JATUARANA - IOLENE TEIXEIRA."
+  },
+  {
+    "nome": "ESMAELSE PIMENTEL GONCALVES",
+    "funcao": "MICROSCOPISTA",
+    "setor": "U.B.S. BOA VISTA DE CUCARI"
+  },
+  {
+    "nome": "ESMERALDA GONCALVES IBIAPINO",
+    "funcao": "AGENTE COMUNITARIO DE SAUDE",
+    "setor": "U.B.S. BOA VISTA DE CUCARI"
+  },
+  {
+    "nome": "ESMERINO PIMENTEL GONCALVES",
+    "funcao": "TECNICO EM RADIOLOGIA",
+    "setor": "U.M.S. WILSON RIBEIRO"
+  },
+  {
+    "nome": "EUBIA FERNANDES FURTADO",
+    "funcao": "TECNICO EM ENFERMAGEM",
+    "setor": "CASA DE APOIO - SANTARÉM"
+  },
+  {
+    "nome": "EVELY EMANUELE VASCONCELOS REGO",
+    "funcao": "TECNICO EM LABORATORIO",
+    "setor": "U.M.S. WILSON RIBEIRO"
+  },
+  {
+    "nome": "EWERTON DOS SANTOS PIRES",
+    "funcao": "MOTORISTA - CAT. B",
+    "setor": "SEDE"
+  },
+  {
+    "nome": "EZEQUIELMIRANDA ALVARENGA",
+    "funcao": "FARMACEUTICO \\ BIOQUIMICO",
+    "setor": "U.B.S. BOA VISTA DE CUCARI"
+  },
+  {
+    "nome": "FABIANA DA SILVA SANTOS",
+    "funcao": "MICROSCOPISTA",
+    "setor": "VIGILÂNCIA SANITÁRIA"
+  },
+  {
+    "nome": "FABIO ROGERIO DE SOUZA BRITO",
+    "funcao": "AGENTE COMUNITARIO DE SAUDE",
+    "setor": "U.B.S SAO SEBASTIÃO"
+  },
+  {
+    "nome": "FABIOLA LOBATO DA SILVA",
+    "funcao": "TECNICO EM ENFERMAGEM",
+    "setor": ""
+  },
+  {
+    "nome": "FABRICIO DE FREITAS DA SILVA",
+    "funcao": "MOTORISTA - CAT. B",
+    "setor": "VIGILÂNCIA SANITÁRIA"
+  },
+  {
+    "nome": "FELIPE SANTOS PINHEIRO",
+    "funcao": "SERVIÇOS GERAIS",
+    "setor": "U.M.S. WILSON RIBEIRO"
+  },
+  {
+    "nome": "FERNANDA CARVALHO MONTEIRO",
+    "funcao": "VIGIA",
+    "setor": "U.B.S SAO SEBASTIAO"
+  },
+  {
+    "nome": "FERNANDO DE ARAUJO PINHO",
+    "funcao": "TECNICO EM INFORMATICA",
+    "setor": "SEDE"
+  },
+  {
+    "nome": "FRANCENILCE PIMENTEL GONCALVES",
+    "funcao": "ENFERMEIRO",
+    "setor": "U.B.S. BOA VISTA DE CUCARI"
+  },
+  {
+    "nome": "FRANCICLEIO DIAS NOGUEIRA",
+    "funcao": "AGENTE COMUNITARIO DE SAUDE",
+    "setor": "U.B.S PACOVAL"
+  },
+  {
+    "nome": "FRANCIELLY ROCHA DOS SANTOS",
+    "funcao": "ENFERMEIRO",
+    "setor": "U.B.S. BOA VISTA DE CUCARI"
+  },
+  {
+    "nome": "FRANCILEIA MORAES DO CARMO",
+    "funcao": "TECNICO EM ENFERMAGEM",
+    "setor": "U.B.S PACOVAL"
+  },
+  {
+    "nome": "FRANCIMARY DE SOUZA VIEGAS",
+    "funcao": "FISIOTERAPEUTA",
+    "setor": "U.B.S SANTA MARIA"
+  },
+  {
+    "nome": "FRANCINEZ SOUZA COSTA",
+    "funcao": "TECNICO EM ENFERMAGEM",
+    "setor": "CASA DE APOIO - SANTARÉM"
+  },
+  {
+    "nome": "FRANCISCO BATISTA DA SILVA",
+    "funcao": "AUXILIAR EM ENFERMAGEM",
+    "setor": "U.B.S JATUARANA - IOLENE TEIXEIRA."
+  },
+  {
+    "nome": "FRANCISCO BRAZ DE ARAGAO",
+    "funcao": "TECNICO EM ENFERMAGEM",
+    "setor": "U.M.S. WILSON RIBEIRO"
+  },
+  {
+    "nome": "FRANCISCO FREDSON SOUZA LIMA",
+    "funcao": "AUXILIAR EM ENFERMAGEM",
+    "setor": "COLONIA"
+  },
+  {
+    "nome": "GABRIELA CASTOR DA ROCHA",
+    "funcao": "AUXILIAR ADMINISTRATIVO",
+    "setor": "CASA DE APOIO - SANTARÉM"
+  },
+  {
+    "nome": "GABRIELLA RODRIGUES DA SILVA",
+    "funcao": "AGENTE COMUNITARIO DE SAUDE",
+    "setor": "Equi. Prainha"
+  },
+  {
+    "nome": "GELCIANE MORAES CORREA",
+    "funcao": "AGENTE COMUNITARIO DE SAUDE",
+    "setor": "URUARA"
+  },
+  {
+    "nome": "GENILDO DOS SANTOS PIMENTEL",
+    "funcao": "VIGIA",
+    "setor": "U.M.S. WILSON RIBEIRO"
+  },
+  {
+    "nome": "GERCILENE PANTOJA LIMA",
+    "funcao": "SERVICOS GERAIS",
+    "setor": "U.M.S. WILSON RIBEIRO"
+  },
+  {
+    "nome": "GILIANDE LOPES FERREIRA",
+    "funcao": "VIGIA",
+    "setor": ""
+  },
+  {
+    "nome": "GILVANE SANTOS DOS SANTOS",
+    "funcao": "SERVICOS GERAIS",
+    "setor": "COLONIA"
+  },
+  {
+    "nome": "GIULIANA DA SILVA CORREA",
+    "funcao": "AGENTE COMUNITARIO DE SAUDE",
+    "setor": "U.B.S. BOA VISTA DE CUCARI"
+  },
+  {
+    "nome": "GIVANILSON GOMES LARANJEIRA",
+    "funcao": "TECNICO EM ENFERMAGEM",
+    "setor": "RIBEIRINHA"
+  },
+  {
+    "nome": "GLAUBER BAHIA PINHO",
+    "funcao": "AGENTE COMUNITARIO DE SAUDE",
+    "setor": "RIBEIRINHA"
+  },
+  {
+    "nome": "GLENDA ABREU FONSECA",
+    "funcao": "AUXILIAR ADMINISTRATIVO",
+    "setor": "CAPS"
+  },
+  {
+    "nome": "GRETCHEN DA SILVA DE SOUZA",
+    "funcao": "ENFERMEIRO",
+    "setor": "U.M.S. WILSON RIBEIRO"
+  },
+  {
+    "nome": "GUILHERME AIRES DE ARAUJO",
+    "funcao": "MOTORISTA- CAT. B SAUDE",
+    "setor": "U.M.S. WILSON RIBEIRO"
+  },
+  {
+    "nome": "GUSTAVO SILVA PIRES",
+    "funcao": "VIGIA",
+    "setor": "U.B.S. SERGIO AMARAL PINGARILHO"
+  },
+  {
+    "nome": "HEDENILDO BATISTA SILVA DA SILVA",
+    "funcao": "TECNICO EM ENFERMAGEM",
+    "setor": "U.B.S JATUARANA - IOLENE TEIXEIRA."
+  },
+  {
+    "nome": "HELDRIANE DOS SANTOS",
+    "funcao": "SERVICOS GERAIS",
+    "setor": "U.B.S PACOVAL"
+  },
+  {
+    "nome": "HELENO TELES MIRANDA",
+    "funcao": "AGENTE DE PORTARIA",
+    "setor": "U.M.S. WILSON RIBEIRO"
+  },
+  {
+    "nome": "HELLGLEUZ FONSECA DOS SANTOS",
+    "funcao": "AGENTE COMUNITARIO DE SAUDE",
+    "setor": "Equi. Prainha"
+  },
+  {
+    "nome": "HORTENCIA JANICY SUZUKI FRIAS",
+    "funcao": "TECNICO EM ENFERMAGEM",
+    "setor": "U.B.S JATUARANA - IOLENE TEIXEIRA."
+  },
+  {
+    "nome": "HUCKSON DA SILVA GOMES",
+    "funcao": "MOTORISTA - CAT. B",
+    "setor": "U.B.S. BOA VISTA DE CUCARI"
+  },
+  {
+    "nome": "ICLEIA BRASIL AIRES",
+    "funcao": "SERVICOS GERAIS",
+    "setor": "U.M.S. WILSON RIBEIRO"
+  },
+  {
+    "nome": "IDANIAS SANTOS E SANTOS",
+    "funcao": "TECNICO EM ENFERMAGEM",
+    "setor": "U.B.S JATUARANA - IOLENE TEIXEIRA."
+  },
+  {
+    "nome": "IGOR LARANJEIRA DOS SANTOS",
+    "funcao": "VIGIA",
+    "setor": "RIBEIRINHA"
+  },
+  {
+    "nome": "ILZIETE DOS SANTOS MEIRELES",
+    "funcao": "SERVICOS GERAIS",
+    "setor": "U.B.S. BOA VISTA DE CUCARI"
+  },
+  {
+    "nome": "INABERDINA SILVA DUARTE",
+    "funcao": "TECNICO EM ENFERMAGEM",
+    "setor": "U.B.S SANTA MARIA"
+  },
+  {
+    "nome": "INGRID LIMA DOS SANTOS",
+    "funcao": "AGENTE COMUNITARIO DE SAUDE",
+    "setor": "COLONIA"
+  },
+  {
+    "nome": "IOLENE TEIXEIRA CARVALHO DA SILVA",
+    "funcao": "AGENTE COMUNITARIO DE SAUDE",
+    "setor": "U.B.S JATUARANA - IOLENE TEIXEIRA."
+  },
+  {
+    "nome": "IRACILDO PEREIRA DA MOTA",
+    "funcao": "AGENTE DE VIGILANCIA EM SAUDE",
+    "setor": "URUARA"
+  },
+  {
+    "nome": "IRINILZA PIRES CASTOR",
+    "funcao": "AUXILIAR EM ENFERMAGEM",
+    "setor": "U.M.S. WILSON RIBEIRO"
+  },
+  {
+    "nome": "IUDIELE DE LIMA DOS SANTOS",
+    "funcao": "AGENTE COMUNITARIO DE SAUDE",
+    "setor": "U.B.S. BOA VISTA DE CUCARI"
+  },
+  {
+    "nome": "IVANETE FREITAS TRINDADE",
+    "funcao": "TECNICO EM ENFERMAGEM",
+    "setor": "U.B.S SANTA MARIA"
+  },
+  {
+    "nome": "IVONICE RUBIA BAHIA ALBARADO",
+    "funcao": "TECNICO EM LABORATORIO",
+    "setor": "U.M.S. WILSON RIBEIRO"
+  },
+  {
+    "nome": "IZANETE COSTA DANTAS",
+    "funcao": "AGENTE ADMINISTRATIVO",
+    "setor": "SEDE"
+  },
+  {
+    "nome": "IZONEIA MIRANDA PINTO",
+    "funcao": "SERVICOS GERAIS",
+    "setor": "U.M.S. WILSON RIBEIRO"
+  },
+  {
+    "nome": "JACKELINE AMORIM ABREU",
+    "funcao": "AUXILIAR ADMINISTRATIVO",
+    "setor": "U.B.S. SERGIO AMARAL PINGARILHO"
+  },
+  {
+    "nome": "JACKELINE FURTADO ESQUERDO",
+    "funcao": "TECNICO EM ENFERMAGEM",
+    "setor": "Equi. Prainha"
+  },
+  {
+    "nome": "JACOB SILVA DA SILVA",
+    "funcao": "SERVICOS GERAIS",
+    "setor": "U.M.S. WILSON RIBEIRO"
+  },
+  {
+    "nome": "JAILDO CORREIA LUCAS",
+    "funcao": "SERVICOS GERAIS",
+    "setor": "U.M.S. WILSON RIBEIRO"
+  },
+  {
+    "nome": "JAMILI KATRINE DAMASCENO AMORIM",
+    "funcao": "TECNICO EM ENFERMAGEM",
+    "setor": "U.B.S. SERGIO AMARAL PINGARILHO"
+  },
+  {
+    "nome": "JANAIARA DE SOUZA DAMASCENO",
+    "funcao": "TECNICO EM ENFERMAGEM",
+    "setor": "U.M.S. WILSON RIBEIRO"
+  },
+  {
+    "nome": "JANDERSON CARDOSO MENEZES",
+    "funcao": "MOTORISTA - CAT. B",
+    "setor": "U.B.S SANTA MARIA"
+  },
+  {
+    "nome": "JANIZETH RODRIGUES MONTE VERDE",
+    "funcao": "AUXILIAR ADMINISTRATIVO",
+    "setor": "COLONIA"
+  },
+  {
+    "nome": "JANNA CLAUDIA MORAES CERQUEIRA",
+    "funcao": "TECNICO EM ENFERMAGEM",
+    "setor": "U.M.S. WILSON RIBEIRO"
+  },
+  {
+    "nome": "JARLISON ALVARENGA DA ROCHA",
+    "funcao": "AGENTE COMUNITARIO DE SAUDE",
+    "setor": "U.B.S SAO SEBASTIÃO"
+  },
+  {
+    "nome": "JELBSON BRUNO LAURINDO CUNHA",
+    "funcao": "AGENTE DE ENDEMIAS",
+    "setor": "VIGILÂNCIA SANITÁRIA"
+  },
+  {
+    "nome": "JERFERSON DE PAULA DE FONSECA",
+    "funcao": "ENFERMEIRO",
+    "setor": "U.M.S. WILSON RIBEIRO"
+  },
+  {
+    "nome": "JERFFERSON BATISTA FROTA",
+    "funcao": "VIGIA",
+    "setor": "CASA DE APOIO - SANTARÉM"
+  },
+  {
+    "nome": "JESSICA KATRINE REIS SILVA",
+    "funcao": "ENFERMEIRO",
+    "setor": "U.M.S. WILSON RIBEIRO"
+  },
+  {
+    "nome": "JHARLLEYDE NARJHADA VIANA DA SILVA",
+    "funcao": "AUXILIAR ADMINISTRATIVO",
+    "setor": "U.B.S SAO SEBASTIAO"
+  },
+  {
+    "nome": "JHEYNA ARAUJO DE ARAUJO",
+    "funcao": "TECNICO EM ENFERMAGEM",
+    "setor": "U.B.S JATUARANA - IOLENE TEIXEIRA."
+  },
+  {
+    "nome": "JHONAT SANTOS FURTADO",
+    "funcao": "VIGIA",
+    "setor": "U.B.S BOA VISTA DE CUCARI - ITAMUCURI"
+  },
+  {
+    "nome": "JOAIS PEREIRA DA SILVEIRA",
+    "funcao": "VIGIA",
+    "setor": "URUARA"
+  },
+  {
+    "nome": "JOAO PAULO DA SILVA PIRES",
+    "funcao": "TECNICO EM HIGIENE DENTAL",
+    "setor": "RIBEIRINHA"
+  },
+  {
+    "nome": "JOAQUIM DA SILVA BALIEIRO",
+    "funcao": "VIGIA",
+    "setor": "U.B.S. BOA VISTA DE CUCARI"
+  },
+  {
+    "nome": "JOAQUIM SOUZA DE ARAUJO",
+    "funcao": "AGENTE COMUNITARIO DE SAUDE",
+    "setor": "COLONIA"
+  },
+  {
+    "nome": "JOCENILDO DA COSTA BATISTA",
+    "funcao": "AGENTE COMUNITARIO DE SAUDE",
+    "setor": "RIBEIRINHA"
+  },
+  {
+    "nome": "JOCIELMA VIEIRA DE VIEIRA",
+    "funcao": "TECNICO EM ENFERMAGEM",
+    "setor": "U.M.S. WILSON RIBEIRO"
+  },
+  {
+    "nome": "JOEL VIEIRA DA SILVA",
+    "funcao": "SERVICOS GERAIS",
+    "setor": "U.B.S JATUARANA - IOLENE TEIXEIRA."
+  },
+  {
+    "nome": "JOELMA MIRANDA LIMA",
+    "funcao": "AGENTE COMUNITARIO DE SAUDE",
+    "setor": "U.B.S SAO SEBASTIÃO"
+  },
+  {
+    "nome": "JOICY CLEA MOTA DOS SANTOS",
+    "funcao": "AUXILIAR ADMINISTRATIVO",
+    "setor": "U.B.S PACOVAL"
+  },
+  {
+    "nome": "JONAS PEREIRA ALVES",
+    "funcao": "TECNICO EM ENFERMAGEM",
+    "setor": "U.B.S SAO SEBASTIÃO"
+  },
+  {
+    "nome": "JONEFA PERNA DA SILVA",
+    "funcao": "AGENTE COMUNITARIO DE SAUDE",
+    "setor": "U.B.S SAO SEBASTIÃO"
+  },
+  {
+    "nome": "JONES DOS REIS MEDEIROS",
+    "funcao": "AGENTE ADMINISTRATIVO",
+    "setor": "SECRETARIA"
+  },
+  {
+    "nome": "JORGE CHRISTIAN SANTOS DE SOUZA",
+    "funcao": "TECNICO EM ENFERMAGEM",
+    "setor": "U.M.S. WILSON RIBEIRO"
+  },
+  {
+    "nome": "JORGE LUIS PINHEIRO DOS SANTOS",
+    "funcao": "TECNICO EM ENFERMAGEM",
+    "setor": "SEDE"
+  },
+  {
+    "nome": "JOSE ANTONIO DOS SANTOS ESQUERDO",
+    "funcao": "AUXILIAR EM ENFERMAGEM",
+    "setor": "VIGILÂNCIA SANITÁRIA"
+  },
+  {
+    "nome": "JOSE LUIZ FERREIRA DA SILVA",
+    "funcao": "PINTOR",
+    "setor": "CAPS"
+  },
+  {
+    "nome": "JOSE PAULO DE LIMA AZEVEDO",
+    "funcao": "VIGIA",
+    "setor": "CAPS"
+  },
+  {
+    "nome": "JOSE ROGERIO RODRIGUES TEIXEIRA",
+    "funcao": "AGENTE COMUNITARIO DE SAUDE",
+    "setor": "U.B.S JATUARANA - IOLENE TEIXEIRA."
+  },
+  {
+    "nome": "JOSIANA JARDIM DE LIMA",
+    "funcao": "TECNICO EM ENFERMAGEM",
+    "setor": "MELHOR EM CASA"
+  },
+  {
+    "nome": "JOSIENE DE SOUZA MENDES",
+    "funcao": "TECNICO EM ENFERMAGEM",
+    "setor": "U.B.S. BOA VISTA DE CUCARI"
+  },
+  {
+    "nome": "JOSINALDO MENDES NOGUEIRA",
+    "funcao": "VIGIA",
+    "setor": "U.B.S. BOA VISTA DE CUCARI"
+  },
+  {
+    "nome": "JOSIVAN BARBOSA DA SILVA",
+    "funcao": "MARINHEIRO FLUVIAL DE COMANDO",
+    "setor": "U.B.S BOA VISTA DE CUCARI - IPANEMA"
+  },
+  {
+    "nome": "JUAN COSTA AIRES",
+    "funcao": "MOTORISTA - CAT. B",
+    "setor": "U.M.S. WILSON RIBEIRO"
+  },
+  {
+    "nome": "JUCIANE ALMEIDA FROIS",
+    "funcao": "TECNICO EM ENFERMAGEM",
+    "setor": "U.B.S. SERGIO AMARAL PINGARILHO"
+  },
+  {
+    "nome": "JUCIANE ALVARENGA LARANJEIRA",
+    "funcao": "SERVICOS GERAIS",
+    "setor": "SEDE"
+  },
+  {
+    "nome": "JULIANA GALUCIO MONTEIRO",
+    "funcao": "ENFERMEIRO",
+    "setor": "U.M.S. WILSON RIBEIRO"
+  },
+  {
+    "nome": "JULIANA MAGNO DE SOUZA",
+    "funcao": "AGENTE COMUNITARIO DE SAUDE",
+    "setor": "RIBEIRINHA"
+  },
+  {
+    "nome": "JULIANA NASCIMENTO DA SILVA",
+    "funcao": "FISIOTERAPEUTA",
+    "setor": "U.B.S. SERGIO AMARAL PINGARILHO"
+  },
+  {
+    "nome": "JULIETA MARTINS DE OLIVEIRA",
+    "funcao": "AUXILIAR EM ENFERMAGEM",
+    "setor": "U.M.S. WILSON RIBEIRO"
+  },
+  {
+    "nome": "JULIETE OLIVEIRA GOES",
+    "funcao": "TECNICO EM ENFERMAGEM",
+    "setor": "U.B.S. BOA VISTA DE CUCARI"
+  },
+  {
+    "nome": "JULLIELLY DE SOUZA LIMA",
+    "funcao": "AUXILIAR ADMINISTRATIVO",
+    "setor": "VIGILÂNCIA SANITÁRIA"
+  },
+  {
+    "nome": "KAREN DO NASCIMENTO RODRIGUES ARAUJO",
+    "funcao": "CIRURGIAO DENTISTA",
+    "setor": "SEDE"
+  },
+  {
+    "nome": "KAROLINE DAMASCENO ESQUERDO SANTANA",
+    "funcao": "ENFERMEIRO",
+    "setor": "SANTA MARIA DO URUARA"
+  },
+  {
+    "nome": "KATHELLEN CRISTINI PRESTES BARROS",
+    "funcao": "DIRETOR DE DEPARTAMENTO",
+    "setor": "VIGILÂNCIA SANITÁRIA"
+  },
+  {
+    "nome": "KATIANE DUARTE RODRIGUES",
+    "funcao": "SERVICOS GERAIS",
+    "setor": "RIBEIRINHA"
+  },
+  {
+    "nome": "KATIELENE PIRES FARIAS COSTA",
+    "funcao": "AUXILIAR ADMINISTRATIVO",
+    "setor": "U.B.S SAO SEBASTIÃO"
+  },
+  {
+    "nome": "KATILENE SOARES CAVALCANTE",
+    "funcao": "TECNICO EM ENFERMAGEM",
+    "setor": "U.M.S. WILSON RIBEIRO"
+  },
+  {
+    "nome": "KEICE KASSIANY RODRIGUES CAMPOS",
+    "funcao": "FISIOTERAPEUTA",
+    "setor": "SEDE"
+  },
+  {
+    "nome": "KEILA CRISTINA SOUZA MOREIRA",
+    "funcao": "SERVICOS GERAIS",
+    "setor": "U.M.S. WILSON RIBEIRO"
+  },
+  {
+    "nome": "KELMIRA FERREIRA DOS SANTOS",
+    "funcao": "AGENTE COMUNITARIO DE SAUDE",
+    "setor": "SEDE"
+  },
+  {
+    "nome": "KEVILYN PRESTES DINIZ",
+    "funcao": "TECNICO EM HIGIENE DENTAL",
+    "setor": "U.B.S SAO SEBASTIÃO"
+  },
+  {
+    "nome": "KLEOCIONE BARBOSA BATISTA",
+    "funcao": "SERVICOS GERAIS",
+    "setor": "SECRETARIA MUNICIPAL DE SAUDE"
+  },
+  {
+    "nome": "LAERCIO NAZARE PERNA",
+    "funcao": "AUXILIAR EM ENFERMAGEM",
+    "setor": "U.M.S. WILSON RIBEIRO"
+  },
+  {
+    "nome": "LAIONE FOSECA RAMOS",
+    "funcao": "AGENTE COMUNITARIO DE SAUDE",
+    "setor": "U.B.S. BOA VISTA DE CUCARI"
+  },
+  {
+    "nome": "LARINE ASSUNCAO DE GOES",
+    "funcao": "AUXILIAR ADMINISTRATIVO",
+    "setor": ""
+  },
+  {
+    "nome": "LARISSA DOS SANTOS PINTO",
+    "funcao": "AGENTE COMUNITARIO DE SAUDE",
+    "setor": "SANTA MARIA DO URUARA"
+  },
+  {
+    "nome": "LAUANE AMORIM DOS SANTOS",
+    "funcao": "AGENTE DE ENDEMIAS",
+    "setor": "VIGILÂNCIA SANITÁRIA"
+  },
+  {
+    "nome": "LAURA DA CONCEICAO FERREIRA",
+    "funcao": "SERVICOS GERAIS",
+    "setor": "U.M.S. WILSON RIBEIRO"
+  },
+  {
+    "nome": "LAURENICE PERNA GONCALVES",
+    "funcao": "AUXILIAR EM ENFERMAGEM",
+    "setor": "U.M.S. WILSON RIBEIRO"
+  },
+  {
+    "nome": "LAURIMAR PANTOJA DE ALCANTARA",
+    "funcao": "VIGIA",
+    "setor": "U.B.S SAO SEBASTIÃO"
+  },
+  {
+    "nome": "LAURINDA LOYRIEM LIRA DOS ANJOS",
+    "funcao": "AUXILIAR ADMINISTRATIVO",
+    "setor": "TFD"
+  },
+  {
+    "nome": "LEANDRO ARAUJO COSTA",
+    "funcao": "MOTORISTA - CAT. B",
+    "setor": "U.B.S. BOA VISTA DE CUCARI"
+  },
+  {
+    "nome": "LEIDIANE PIRES",
+    "funcao": "AUXILIAR ADMINISTRATIVO",
+    "setor": "Equi. Prainha"
+  },
+  {
+    "nome": "LEONARDO MOTA DA SILVA",
+    "funcao": "DIRETOR DE DEPARTAMENTO",
+    "setor": "SEDE"
+  },
+  {
+    "nome": "LETICIA MALCHER DOS SANTOS",
+    "funcao": "AGENTE COMUNITARIO DE SAUDE",
+    "setor": "U.B.S. BOA VISTA DE CUCARI"
+  },
+  {
+    "nome": "LILIA LOUREIRO LUCAS",
+    "funcao": "AGENTE COMUNITARIO DE SAUDE",
+    "setor": "RIBEIRINHA"
+  },
+  {
+    "nome": "LILIAN ORANA GOMES OLIVEIRA",
+    "funcao": "AUXILIAR ADMINISTRATIVO",
+    "setor": "SEDE"
+  },
+  {
+    "nome": "LINDETE OLIVEIRA DE MEDEIROS NETA",
+    "funcao": "TECNICO EM RADIOLOGIA",
+    "setor": "U.M.S. WILSON RIBEIRO"
+  },
+  {
+    "nome": "LIVIANE FERREIRA LIMA",
+    "funcao": "SERVICOS GERAIS",
+    "setor": "U.B.S. BOA VISTA DE CUCARI"
+  },
+  {
+    "nome": "LORRANNY SOUZA VIEIRA",
+    "funcao": "SERVICOS GERAIS",
+    "setor": "U.B.S. BOA VISTA DE CUCARI"
+  },
+  {
+    "nome": "LUANA KATRINE MARREIROS MEDEIROS",
+    "funcao": "AUXILIAR ADMINISTRATIVO",
+    "setor": "U.B.S JATUARANA - IOLENE TEIXEIRA."
+  },
+  {
+    "nome": "LUCIA HELENA MAGALHAES BRAGA",
+    "funcao": "AGENTE COMUNITARIO DE SAUDE",
+    "setor": "Equi. Prainha"
+  },
+  {
+    "nome": "LUCIANA DOS SANTOS MAGNO",
+    "funcao": "TECNICO EM ENFERMAGEM",
+    "setor": "Equi. Prainha"
+  },
+  {
+    "nome": "LUCIANE DOS SANTOS FURTADO",
+    "funcao": "SERVICOS GERAIS",
+    "setor": "U.M.S. WILSON RIBEIRO"
+  },
+  {
+    "nome": "LUCICLEIA DOS SANTOS",
+    "funcao": "AGENTE COMUNITARIO DE SAUDE",
+    "setor": "U.B.S PACOVAL"
+  },
+  {
+    "nome": "LUCILEIA SOUZA DE LIMA",
+    "funcao": "SERVICOS GERAIS",
+    "setor": "U.M.S. WILSON RIBEIRO"
+  },
+  {
+    "nome": "LUCYAN LIMA DE SOUSA",
+    "funcao": "SERV GERAIS COZINHA",
+    "setor": "U.B.S. SERGIO AMARAL PINGARILHO"
+  },
+  {
+    "nome": "LUDIMILLA BEATRIZ MIRANDA NICACIO",
+    "funcao": "TECNICO EM ENFERMAGEM",
+    "setor": "U.M.S. WILSON RIBEIRO"
+  },
+  {
+    "nome": "LUDOVICO SILVA DE OLIVEIRA",
+    "funcao": "TECNICO EM ENFERMAGEM",
+    "setor": "U.B.S SANTA MARIA"
+  },
+  {
+    "nome": "LUELENE VIEGAS DE OLIVEIRA",
+    "funcao": "TECNICO EM ENFERMAGEM",
+    "setor": "SECRETARIA MUNICIPAL DE SAUDE"
+  },
+  {
+    "nome": "LUZAMIRA PIRES VIEGAS",
+    "funcao": "SERVICOS GERAIS",
+    "setor": "U.M.S. WILSON RIBEIRO"
+  },
+  {
+    "nome": "LUZIA DO SOCORRO OTONI BENTO",
+    "funcao": "ENFERMEIRO",
+    "setor": "SEDE"
+  },
+  {
+    "nome": "MAGNA ALMEIDA DA COSTA",
+    "funcao": "AGENTE COMUNITARIO DE SAUDE",
+    "setor": "U.B.S PACOVAL"
+  },
+  {
+    "nome": "MAICON DE SOUZA BATISTA",
+    "funcao": "MOTORISTA - CAT. B",
+    "setor": "MELHOR EM CASA"
+  },
+  {
+    "nome": "MANOEL JOSE NASCIMENTO DE AZEVEDO",
+    "funcao": "MOTORISTA - CAT. B",
+    "setor": "U.M.S. WILSON RIBEIRO"
+  },
+  {
+    "nome": "MANOEL MENDES SOARES",
+    "funcao": "VIGIA",
+    "setor": "SEDE"
+  },
+  {
+    "nome": "MARCIA MONTEIRO BORGES",
+    "funcao": "TECNICO EM ENFERMAGEM",
+    "setor": "U.B.S SAO SEBASTIÃO"
+  },
+  {
+    "nome": "MARCIANI DA SILVA REIS SARGES",
+    "funcao": "SERV GERAIS COZINHA",
+    "setor": "U.M.S. WILSON RIBEIRO"
+  },
+  {
+    "nome": "MARCIEL PIRES CORREA",
+    "funcao": "AGENTE COMUNITARIO DE SAUDE",
+    "setor": "U.B.S SAO SEBASTIÃO"
+  },
+  {
+    "nome": "MARCIO LUNO SOUZA DA SILVA",
+    "funcao": "AUXILIAR EM ENFERMAGEM",
+    "setor": "SEDE"
+  },
+  {
+    "nome": "MARCIO PINHEIRO SILVA",
+    "funcao": "MOTORISTA - CAT. B",
+    "setor": "U.B.S SANTA MARIA"
+  },
+  {
+    "nome": "MARIA ANGELICA DOS SANTOS",
+    "funcao": "MOTORISTA - CAT. B",
+    "setor": "U.B.S. BOA VISTA DE CUCARI"
+  },
+  {
+    "nome": "MARIA DA CONCEICAO ESQUERDO ABREU",
+    "funcao": "ENFERMEIRO",
+    "setor": "SECRETARIA MUNICIPAL DE SAUDE"
+  },
+  {
+    "nome": "MARIA DALVA LIMA DAS GRACAS",
+    "funcao": "SERVICOS GERAIS",
+    "setor": "SEDE"
+  },
+  {
+    "nome": "MARIA DAS DORES ALVES DA SILVA",
+    "funcao": "SERVICOS GERAIS",
+    "setor": "COLONIA"
+  },
+  {
+    "nome": "MARIA DAS GRACAS DA SILVA VIEGAS",
+    "funcao": "AUXILIAR EM ENFERMAGEM",
+    "setor": "URUARA"
+  },
+  {
+    "nome": "MARIA DO SOCORRO CORREA",
+    "funcao": "SERVICOS GERAIS",
+    "setor": "CUCARI"
+  },
+  {
+    "nome": "MARIA DOMINGAS NUNES PANTOJA",
+    "funcao": "SERVICOS GERAIS",
+    "setor": "SECRETARIA MUNICIPAL DE SAUDE"
+  },
+  {
+    "nome": "MARIA EDILEUZA ARAGAO FERREIRA",
+    "funcao": "AGENTE COMUNITARIO DE SAUDE",
+    "setor": "URUARA"
+  },
+  {
+    "nome": "MARIA EDUARDA MENDES AMORIM",
+    "funcao": "AUXILIAR ADMINISTRATIVO",
+    "setor": "SEDE"
+  },
+  {
+    "nome": "MARIA ELY SOUSA BATISTA",
+    "funcao": "AGENTE COMUNITARIO DE SAUDE",
+    "setor": "RIBEIRINHA"
+  },
+  {
+    "nome": "MARIA ENILDA PINTO ANDRADE",
+    "funcao": "SERVICOS GERAIS",
+    "setor": "U.M.S. WILSON RIBEIRO"
+  },
+  {
+    "nome": "MARIA EURIDES DA SILVA FURTADO",
+    "funcao": "AGENTE COMUNITARIO DE SAUDE",
+    "setor": "TAMUATAI"
+  },
+  {
+    "nome": "MARIA FELINA PAZ GOMES",
+    "funcao": "SERVICOS GERAIS",
+    "setor": "U.B.S SANTA MARIA"
+  },
+  {
+    "nome": "MARIA MADALENA DE SOUZA SOUTO",
+    "funcao": "AUXILIAR ADMINISTRATIVO",
+    "setor": "U.B.S SAO SEBASTIAO"
+  },
+  {
+    "nome": "MARIA RAIMUNDA NUNES MEDEIROS",
+    "funcao": "SERVICOS GERAIS",
+    "setor": "U.B.S. SERGIO AMARAL PINGARILHO"
+  },
+  {
+    "nome": "MARIA ROSA MIRANDA SOUSA",
+    "funcao": "DIRETOR DE UNIDADE BASICA",
+    "setor": "U.M.S. WILSON RIBEIRO"
+  },
+  {
+    "nome": "MARIA TEREZA MORAES ESQUERDO",
+    "funcao": "AUXILIAR EM ENFERMAGEM",
+    "setor": "RIBEIRINHA"
+  },
+  {
+    "nome": "MARIA ZORAIDE VIEIRA DOS SANTOS",
+    "funcao": "ASSISTENTE SOCIAL",
+    "setor": "TFD"
+  },
+  {
+    "nome": "MARILENA CARDOSO BATISTA",
+    "funcao": "AGENTE COMUNITARIO DE SAUDE",
+    "setor": "U.B.S. BOA VISTA DE CUCARI"
+  },
+  {
+    "nome": "MARLEUZA ABREU DA ROCHA",
+    "funcao": "AUXILIAR EM ENFERMAGEM",
+    "setor": "U.M.S. WILSON RIBEIRO"
+  },
+  {
+    "nome": "MARTA JAQUELINE DOS SANTOS FURTADO",
+    "funcao": "AGENTE COMUNITARIO DE SAUDE",
+    "setor": "ITAMUCURI"
+  },
+  {
+    "nome": "MATEUS DA SILVA BAHIA",
+    "funcao": "TECNICO EM ENFERMAGEM",
+    "setor": "U.B.S. BOA VISTA DE CUCARI"
+  },
+  {
+    "nome": "MATHEUS CORREA CORREA",
+    "funcao": "MARINHEIRO FLUVIAL DE COMANDO",
+    "setor": "U.M.S. WILSON RIBEIRO"
+  },
+  {
+    "nome": "MATHEUS SILVA MONTEIRO",
+    "funcao": "MARINHEIRO FLUVIAL DE COMANDO",
+    "setor": "TAMUATAI"
+  },
+  {
+    "nome": "MAX DO SOCORRO ARAUJO DA COSTA",
+    "funcao": "AGENTE ADMINISTRATIVO",
+    "setor": "SEDE"
+  },
+  {
+    "nome": "MAYELLE LARICE SILVA DE ASSUNCAO MACHADO",
+    "funcao": "AGENTE COMUNITARIO DE SAUDE",
+    "setor": "COLONIA"
+  },
+  {
+    "nome": "MAYSA VIEIRA DE SOUSA",
+    "funcao": "FARMACEUTICO \\ BIOQUIMICO",
+    "setor": "U.M.S. WILSON RIBEIRO"
+  },
+  {
+    "nome": "MIGUEL JARDSON DE OLIVEIRA GOES",
+    "funcao": "AGENTE COMUNITARIO DE SAUDE",
+    "setor": "ITAMUCURI"
+  },
+  {
+    "nome": "MILLEN ANDRADE DE SOUZA",
+    "funcao": "AGENTE DE ENDEMIAS",
+    "setor": "U.B.S PACOVAL"
+  },
+  {
+    "nome": "MIQUEAS CASTOR DOS SANTOS",
+    "funcao": "TECNICO EM RADIOLOGIA",
+    "setor": "U.M.S. WILSON RIBEIRO"
+  },
+  {
+    "nome": "MIRIAN SOUZA DOS SANTOS",
+    "funcao": "AGENTE COMUNITARIO DE SAUDE",
+    "setor": "U.B.S. SERGIO AMARAL PINGARILHO"
+  },
+  {
+    "nome": "MIRLENI GOES DA SILVA",
+    "funcao": "SERVICOS GERAIS",
+    "setor": "U.B.S PACOVAL"
+  },
+  {
+    "nome": "MISAEL ALVARENGA AIRES",
+    "funcao": "MOTORISTA - CAT. B",
+    "setor": "U.M.S. WILSON RIBEIRO"
+  },
+  {
+    "nome": "MOISES TAVARES PIRES",
+    "funcao": "AGENTE COMUNITARIO DE SAUDE",
+    "setor": "U.B.S. SERGIO AMARAL PINGARILHO"
+  },
+  {
+    "nome": "MONICA CRISTINA HENRIQUE DE LIMA",
+    "funcao": "TECNICO EM ENFERMAGEM",
+    "setor": "U.M.S. WILSON RIBEIRO"
+  },
+  {
+    "nome": "NAIA SAHIME MIRANDA DE OLIVEIRA",
+    "funcao": "SERVICOS GERAIS",
+    "setor": "SECRETARIA MUNICIPAL DE SAUDE"
+  },
+  {
+    "nome": "NAILSON PIRES DOS SANTOS",
+    "funcao": "AGENTE COMUNITARIO DE SAUDE",
+    "setor": "U.B.S. SERGIO AMARAL PINGARILHO"
+  },
+  {
+    "nome": "NAIZA DO SOCORRO GOMES DA ROCHA",
+    "funcao": "AUXILIAR EM ENFERMAGEM",
+    "setor": "Equi. Prainha"
+  },
+  {
+    "nome": "NALIANE PEREIRA PERNA",
+    "funcao": "TECNICO EM HIGIENE DENTAL",
+    "setor": "U.B.S SAO SEBASTIAO"
+  },
+  {
+    "nome": "NALIELSON PEREIRA PERNA",
+    "funcao": "SERVICOS GERAIS",
+    "setor": "U.M.S. WILSON RIBEIRO"
+  },
+  {
+    "nome": "NAOMY LAUREN LOUREIRO MOTA",
+    "funcao": "CIRURGIAO DENTISTA",
+    "setor": "SEDE"
+  },
+  {
+    "nome": "NARCISO CARDOSO CAMPOS",
+    "funcao": "ENFERMEIRO",
+    "setor": "SEDE"
+  },
+  {
+    "nome": "NARLEIDE PINHO DA SILVA",
+    "funcao": "AUXILIAR ADMINISTRATIVO",
+    "setor": "U.M.S. WILSON RIBEIRO"
+  },
+  {
+    "nome": "NARLIANE ESQUERDO MAGNO",
+    "funcao": "TECNICO EM ENFERMAGEM",
+    "setor": "U.M.S. WILSON RIBEIRO"
+  },
+  {
+    "nome": "NARLISON SANTOS DE OLIVEIRA",
+    "funcao": "AGENTE COMUNITARIO DE SAUDE",
+    "setor": "U.B.S JATUARANA - IOLENE TEIXEIRA."
+  },
+  {
+    "nome": "NATA LEONARDO DA SILVA",
+    "funcao": "MOTORISTA - CAT. B",
+    "setor": "U.B.S PACOVAL"
+  },
+  {
+    "nome": "NATALINA PIRES GAMBOA",
+    "funcao": "SERVICOS GERAIS",
+    "setor": "U.M.S. WILSON RIBEIRO"
+  },
+  {
+    "nome": "NATANAEL PINGARILHO DE CASTRO",
+    "funcao": "AGENTE COMUNITARIO DE SAUDE",
+    "setor": "RIBEIRINHA"
+  },
+  {
+    "nome": "NATANAEL SOUZA DOS SANTOS",
+    "funcao": "TECNICO EM INFORMATICA",
+    "setor": "U.M.S. WILSON RIBEIRO"
+  },
+  {
+    "nome": "NAYANE DA SILVA SANTOS",
+    "funcao": "AGENTE COMUNITARIO DE SAUDE",
+    "setor": "U.B.S. SERGIO AMARAL PINGARILHO"
+  },
+  {
+    "nome": "NAZIANE OLIVEIRA LIRA",
+    "funcao": "ENFERMEIRO",
+    "setor": "SANTA MARIA DO URUARA"
+  },
+  {
+    "nome": "NEILA PERNA VIEIRA",
+    "funcao": "AUXILIAR ADMINISTRATIVO",
+    "setor": "U.B.S. SERGIO AMARAL PINGARILHO"
+  },
+  {
+    "nome": "NELRIMAR DOS SANTOS RODRIGUES",
+    "funcao": "VIGIA",
+    "setor": "URUARA"
+  },
+  {
+    "nome": "NEUZIANE ESQUERDO BATISTA",
+    "funcao": "AUXILIAR ADMINISTRATIVO",
+    "setor": "TFD"
+  },
+  {
+    "nome": "NILCE DOS SANTOS PEIXOTO",
+    "funcao": "TECNICO EM ENFERMAGEM",
+    "setor": "U.M.S. WILSON RIBEIRO"
+  },
+  {
+    "nome": "NILVANA SILVA DA CONCEICAO",
+    "funcao": "TECNICO EM ENFERMAGEM",
+    "setor": "CASA DE APOIO - SANTARÉM"
+  },
+  {
+    "nome": "NIVIA MARIA DA SILVA FERREIRA",
+    "funcao": "SERVICOS GERAIS",
+    "setor": "U.B.S SANTA MARIA"
+  },
+  {
+    "nome": "NORMA GONCALVES DA SILVA",
+    "funcao": "AUXILIAR EM ENFERMAGEM",
+    "setor": "U.B.S JATUARANA - IOLENE TEIXEIRA."
+  },
+  {
+    "nome": "NUBIA SIMEI OTONI MAGNO",
+    "funcao": "FARMACEUTICO \\ BIOQUIMICO",
+    "setor": "U.M.S. WILSON RIBEIRO"
+  },
+  {
+    "nome": "ODEANNY SIQUEIRA DOS SANTOS",
+    "funcao": "SERVICOS GERAIS",
+    "setor": "U.B.S. BOA VISTA DE CUCARI"
+  },
+  {
+    "nome": "ODOMARIA PIRES DOS ANJOS",
+    "funcao": "AGENTE COMUNITARIO DE SAUDE",
+    "setor": "Equi. Prainha"
+  },
+  {
+    "nome": "OLENDINA SANDRA CASTRO CORREA",
+    "funcao": "ENFERMEIRO",
+    "setor": "U.M.S. WILSON RIBEIRO"
+  },
+  {
+    "nome": "OLIDELSON MAGNO DINIZ",
+    "funcao": "MARINHEIRO FLUVIAL DE COMANDO",
+    "setor": "U.B.S SAO SEBASTIÃO"
+  },
+  {
+    "nome": "ORION AIRES DA COSTA",
+    "funcao": "SERVICOS GERAIS",
+    "setor": "U.M.S. WILSON RIBEIRO"
+  },
+  {
+    "nome": "OSENIAS CASTRO GUIMARAES FILHO",
+    "funcao": "FARMACEUTICO \\ BIOQUIMICO",
+    "setor": "U.B.S JATUARANA - IOLENE TEIXEIRA."
+  },
+  {
+    "nome": "OSVADILDA MENDES PEREIRA",
+    "funcao": "AUXILIAR ADMINISTRATIVO",
+    "setor": "VIGILÂNCIA SANITÁRIA"
+  },
+  {
+    "nome": "OSVALDO HENRIQUE DOS SANTOS JUNIOR",
+    "funcao": "VIGIA",
+    "setor": "U.B.S. BOA VISTA DE CUCARI"
+  },
+  {
+    "nome": "OZANIRA DUARTE PINHEIRO",
+    "funcao": "SERVICOS GERAIS",
+    "setor": "URUARA"
+  },
+  {
+    "nome": "OZAYNNE BATISTA BRAGA",
+    "funcao": "TECNICO EM ENFERMAGEM",
+    "setor": "U.B.S. BOA VISTA DE CUCARI"
+  },
+  {
+    "nome": "PABLO FREITAS MIRANDA",
+    "funcao": "ENFERMEIRO",
+    "setor": "U.B.S SANTA MARIA"
+  },
+  {
+    "nome": "PATRICIA MARIA SANTIAGO",
+    "funcao": "PSICOLOGO",
+    "setor": "U.M.S. WILSON RIBEIRO"
+  },
+  {
+    "nome": "PATRICIA SOUZA SANTOS",
+    "funcao": "AGENTE DE PORTARIA",
+    "setor": "U.M.S. WILSON RIBEIRO"
+  },
+  {
+    "nome": "PAULIANNE PEREIRA DOS SANTOS",
+    "funcao": "TECNICO EM LABORATORIO",
+    "setor": "U.M.S. WILSON RIBEIRO"
+  },
+  {
+    "nome": "PAULO EVANDRO DE JESUS COSTA",
+    "funcao": "MOTORISTA - CAT. B",
+    "setor": "U.B.S SANTA MARIA"
+  },
+  {
+    "nome": "PAULO IVAN PEREIRA SANTOS",
+    "funcao": "AGENTE COMUNITARIO DE SAUDE",
+    "setor": "RIBEIRINHA"
+  },
+  {
+    "nome": "PAULO ROBERTO DE ALMEIDA KIZAHY",
+    "funcao": "TECNICO EM ENFERMAGEM",
+    "setor": "U.M.S. WILSON RIBEIRO"
+  },
+  {
+    "nome": "PAULO SERGIO ARRUDA DE AZEVEDO",
+    "funcao": "AGENTE ADMINISTRATIVO",
+    "setor": "SEDE"
+  },
+  {
+    "nome": "PEDRO ELIAS PINHO PIRES",
+    "funcao": "AUXILIAR ADMINISTRATIVO",
+    "setor": "CASA DE APOIO - SANTARÉM"
+  },
+  {
+    "nome": "PEDRO SOUZA DOS SANTOS NETO",
+    "funcao": "AGENTE DE PORTARIA",
+    "setor": "U.M.S. WILSON RIBEIRO"
+  },
+  {
+    "nome": "POLIANA ULATOSKI",
+    "funcao": "DIRETOR DE DEPARTAMENTO",
+    "setor": "VIGILÂNCIA SANITÁRIA"
+  },
+  {
+    "nome": "RAGNER MIRANDA DA ROCHA",
+    "funcao": "MOTORISTA - CAT. D",
+    "setor": "SECRETARIA MUNICIPAL DE SAUDE"
+  },
+  {
+    "nome": "RAIMUNDA YASMINE PINGARILHO CRISTOFORA",
+    "funcao": "NUTRICIONISTA",
+    "setor": "U.M.S. WILSON RIBEIRO"
+  },
+  {
+    "nome": "RAIMUNDO PINHEIRO SOARES",
+    "funcao": "MEDICO VETERINARIO",
+    "setor": "VIGILÂNCIA SANITÁRIA"
+  },
+  {
+    "nome": "RAIMUNDO WALDINEI NOGUEIRA DOS SANTOS",
+    "funcao": "MOTORISTA - CAT. B",
+    "setor": "U.B.S. BOA VISTA DE CUCARI"
+  },
+  {
+    "nome": "RAINER KENEDY PEREIRA MACHADO",
+    "funcao": "VIGIA",
+    "setor": "U.B.S SANTA MARIA"
+  },
+  {
+    "nome": "RAISSUELEM PIRES CASTOR",
+    "funcao": "AGENTE DE ENDEMIAS",
+    "setor": "VIGILÂNCIA SANITÁRIA"
+  },
+  {
+    "nome": "RANA PINHEIRO SANTOS",
+    "funcao": "AGENTE COMUNITARIO DE SAUDE",
+    "setor": "U.B.S. BOA VISTA DE CUCARI"
+  },
+  {
+    "nome": "RANGLESON AZEVEDO DOS SANTOS",
+    "funcao": "TECNICO EM ENFERMAGEM",
+    "setor": "CASA DE APOIO - SANTARÉM"
+  },
+  {
+    "nome": "RAQUEL DAMASCENO ESQUERDO CASTRO",
+    "funcao": "TECNICO EM ENFERMAGEM",
+    "setor": "RIBEIRINHA"
+  },
+  {
+    "nome": "REGIANE DE SOUZA VIEIRA",
+    "funcao": "TECNICO EM ENFERMAGEM",
+    "setor": "U.M.S. WILSON RIBEIRO"
+  },
+  {
+    "nome": "REGINALDO PEREIRA DE OLIVEIRA",
+    "funcao": "AGENTE COMUNITARIO DE SAUDE",
+    "setor": "COLONIA"
+  },
+  {
+    "nome": "REIMAR PIRES CASTRO JUNIOR",
+    "funcao": "AUXILIAR ADMINISTRATIVO",
+    "setor": "U.B.S. SERGIO AMARAL PINGARILHO"
+  },
+  {
+    "nome": "RENAN VENTURINI",
+    "funcao": "VIGIA",
+    "setor": "U.B.S JATUARANA - IOLENE TEIXEIRA."
+  },
+  {
+    "nome": "RENATO NUNES DOS SANTOS",
+    "funcao": "TECNICO EM ENFERMAGEM",
+    "setor": "U.B.S BOA VISTA DE CUCARI - IPANEMA"
+  },
+  {
+    "nome": "RENILDA MARTINS DOS SANTOS",
+    "funcao": "AGENTE COMUNITARIO DE SAUDE",
+    "setor": "U.B.S. SERGIO AMARAL PINGARILHO"
+  },
+  {
+    "nome": "RENO DA SILVA VIEIRA",
+    "funcao": "AGENTE COMUNITARIO DE SAUDE",
+    "setor": "COLONIA"
+  },
+  {
+    "nome": "RITA MARIA MAGNO ESQUERDO",
+    "funcao": "TECNICO EM ENFERMAGEM",
+    "setor": "SECRETARIA MUNICIPAL DE SAUDE"
+  },
+  {
+    "nome": "ROBERTA FERREIRA NUNES",
+    "funcao": "AGENTE COMUNITARIO DE SAUDE",
+    "setor": "CUCARI"
+  },
+  {
+    "nome": "RODINALDO NUNES DA COSTA",
+    "funcao": "MARINHEIRO FLUVIAL DE COMANDO",
+    "setor": "U.B.S. BOA VISTA DE CUCARI"
+  },
+  {
+    "nome": "RODRIGO DE MATOS MARAMALDO",
+    "funcao": "CIRURGIAO DENTISTA",
+    "setor": "U.B.S. BOA VISTA DE CUCARI"
+  },
+  {
+    "nome": "RODRIGO DOS SANTOS DUARTE",
+    "funcao": "TECNICO EM ENFERMAGEM",
+    "setor": "U.M.S. WILSON RIBEIRO"
+  },
+  {
+    "nome": "RODRIGO SILVA DE FREITAS",
+    "funcao": "FISIOTERAPEUTA",
+    "setor": "U.M.S. WILSON RIBEIRO"
+  },
+  {
+    "nome": "ROMILDA FERREIRA DE SOUZA",
+    "funcao": "TECNICO EM ENFERMAGEM",
+    "setor": "RIBEIRINHA"
+  },
+  {
+    "nome": "RONILDO CARVALHO SILVA",
+    "funcao": "AGENTE COMUNITARIO DE SAUDE",
+    "setor": "U.B.S JATUARANA - IOLENE TEIXEIRA."
+  },
+  {
+    "nome": "ROSA LUCIA CARVALHO DE ARRUDA",
+    "funcao": "TECNICO EM ENFERMAGEM",
+    "setor": "CUCARI"
+  },
+  {
+    "nome": "ROSA MARIA PEREIRA GOMES",
+    "funcao": "TECNICO EM ENFERMAGEM",
+    "setor": "SANTA MARIA DO URUARA"
+  },
+  {
+    "nome": "ROSANHA ESQUERDO GUEDES",
+    "funcao": "SERV GERAIS COZINHA",
+    "setor": "U.M.S. WILSON RIBEIRO"
+  },
+  {
+    "nome": "ROSIELI MENEZES FERREIRA",
+    "funcao": "TECNICO EM ENFERMAGEM",
+    "setor": "Equi. Prainha"
+  },
+  {
+    "nome": "ROSIGLENE PIMENTEL BATISTA",
+    "funcao": "SERVICOS GERAIS",
+    "setor": "SEDE"
+  },
+  {
+    "nome": "ROSILENE ROLIM DA SILVA",
+    "funcao": "AGENTE COMUNITARIO DE SAUDE",
+    "setor": "U.B.S JATUARANA - IOLENE TEIXEIRA."
+  },
+  {
+    "nome": "ROSINELSON COSTA DOS SANTOS",
+    "funcao": "VIGIA",
+    "setor": "CASA DE APOIO - SANTARÉM"
+  },
+  {
+    "nome": "ROSIVAN MARQUES DE LIMA FILHO",
+    "funcao": "TECNICO EM ENFERMAGEM",
+    "setor": "U.M.S. WILSON RIBEIRO"
+  },
+  {
+    "nome": "RUDILENE PANTOJA DE ARAUJO",
+    "funcao": "AGENTE COMUNITARIO DE SAUDE",
+    "setor": "Equi. Prainha"
+  },
+  {
+    "nome": "RUDINEY OLIVEIRA DOS SANTOS",
+    "funcao": "MARINHEIRO FLUVIAL DE COMANDO",
+    "setor": "U.B.S SANTA MARIA"
+  },
+  {
+    "nome": "SABRINA SOUZA DOS SANTOS",
+    "funcao": "SERVICOS GERAIS",
+    "setor": "U.M.S. WILSON RIBEIRO"
+  },
+  {
+    "nome": "SADRAQUE DE SOUZA CASTOR",
+    "funcao": "MARINHEIRO FLUVIAL DE COMANDO",
+    "setor": "SEDE"
+  },
+  {
+    "nome": "SAMARA ABREU BRASIL",
+    "funcao": "AUXILIAR ADMINISTRATIVO",
+    "setor": "SECRETARIA MUNICIPAL DE SAUDE"
+  },
+  {
+    "nome": "SAMILA MAGNO PERNA",
+    "funcao": "AUXILIAR ADMINISTRATIVO",
+    "setor": "SECRETARIA MUNICIPAL DE SAUDE"
+  },
+  {
+    "nome": "SAMUEL MONTEIRO DE SOUZA",
+    "funcao": "AGENTE COMUNITARIO DE SAUDE",
+    "setor": "RIBEIRINHA"
+  },
+  {
+    "nome": "SANDRA ALICE DA CONCEICAO OTONI",
+    "funcao": "SERVICOS GERAIS",
+    "setor": "SECRETARIA MUNICIPAL DE SAUDE"
+  },
+  {
+    "nome": "SANDRA DO SOCORRO MARTINS DA TRINDADE",
+    "funcao": "AUXILIAR EM ENFERMAGEM",
+    "setor": "Equi. Prainha"
+  },
+  {
+    "nome": "SANDRA JANUARIO DE SOUSA",
+    "funcao": "TECNICO EM ENFERMAGEM",
+    "setor": "U.M.S. WILSON RIBEIRO"
+  },
+  {
+    "nome": "SELMA DA SILVA CORREA",
+    "funcao": "AGENTE COMUNITARIO DE SAUDE",
+    "setor": "SEDE"
+  },
+  {
+    "nome": "SHEILA PIRES FLEXA",
+    "funcao": "AUXILIAR ADMINISTRATIVO",
+    "setor": "SEDE"
+  },
+  {
+    "nome": "SHEILA RAQUEL MAGNO COELHO",
+    "funcao": "TECNICO EM CONTABILIDADE",
+    "setor": "SEDE"
+  },
+  {
+    "nome": "SHEYLA DJANE AZEVEDO DOS REIS",
+    "funcao": "FARMACEUTICO \\ BIOQUIMICO",
+    "setor": "U.M.S. WILSON RIBEIRO"
+  },
+  {
+    "nome": "SIDNEI DE SOUSA CRUZ",
+    "funcao": "ENFERMEIRO",
+    "setor": "MELHOR EM CASA"
+  },
+  {
+    "nome": "SILMAR SILVA DE CARVALHO",
+    "funcao": "MICROSCOPISTA",
+    "setor": "U.B.S PACOVAL"
+  },
+  {
+    "nome": "SILMARA DOS SANTOS BRASIL",
+    "funcao": "TECNICO EM ENFERMAGEM",
+    "setor": "U.M.S. WILSON RIBEIRO"
+  },
+  {
+    "nome": "SILMARA VIEGAS DE CARVALHO",
+    "funcao": "AGENTE DE ENDEMIAS",
+    "setor": "VIGILÂNCIA SANITÁRIA"
+  },
+  {
+    "nome": "SILVIA ALVARENGA LARANJEIRA",
+    "funcao": "SERVICOS GERAIS",
+    "setor": "U.M.S. WILSON RIBEIRO"
+  },
+  {
+    "nome": "SILVIA AMELIA DA SILVA SOARES AZEVEDO",
+    "funcao": "TECNICO EM ENFERMAGEM",
+    "setor": "SEDE"
+  },
+  {
+    "nome": "SIMONE COSTA DOS SANTOS",
+    "funcao": "AGENTE COMUNITARIO DE SAUDE",
+    "setor": "Equi. Prainha"
+  },
+  {
+    "nome": "SINARA DE JESUS MIRANDA ALVARENGA",
+    "funcao": "TECNICO EM ENFERMAGEM",
+    "setor": "URUARA"
+  },
+  {
+    "nome": "SISLANDIA JANUARIO DA SILVA",
+    "funcao": "TECNICO EM ENFERMAGEM",
+    "setor": "U.M.S. WILSON RIBEIRO"
+  },
+  {
+    "nome": "SONIA CORREA GUEDES",
+    "funcao": "TECNICO EM ENFERMAGEM",
+    "setor": "SEDE"
+  },
+  {
+    "nome": "SUANE ABREU BRASIL",
+    "funcao": "AGENTE COMUNITARIO DE SAUDE",
+    "setor": "U.B.S. SERGIO AMARAL PINGARILHO"
+  },
+  {
+    "nome": "SUSIANE MOREIRA DOS SANTOS",
+    "funcao": "SERVICOS GERAIS",
+    "setor": "U.B.S PACOVAL"
+  },
+  {
+    "nome": "SUZANA OLIVEIRA DE OLIVEIRA",
+    "funcao": "SERVICOS GERAIS",
+    "setor": "U.B.S SANTA MARIA"
+  },
+  {
+    "nome": "TAIS PIRES DOS REIS",
+    "funcao": "SERVICOS GERAIS",
+    "setor": "U.B.S. SERGIO AMARAL PINGARILHO"
+  },
+  {
+    "nome": "TAYSON FERNANDO CASTILHO DA SILVA",
+    "funcao": "ENFERMEIRO",
+    "setor": "Equi. Prainha"
+  },
+  {
+    "nome": "TELMA PERNA COSTA",
+    "funcao": "AGENTE COMUNITARIO DE SAUDE",
+    "setor": "U.B.S SAO SEBASTIÃO"
+  },
+  {
+    "nome": "TERESINHA DE JESUS CARDOSO CORREA",
+    "funcao": "SERVICOS GERAIS",
+    "setor": "U.B.S. BOA VISTA DE CUCARI"
+  },
+  {
+    "nome": "THIAGO MIRANDA PINHO",
+    "funcao": "SERVICOS GERAIS",
+    "setor": "U.B.S JATUARANA - IOLENE TEIXEIRA."
+  },
+  {
+    "nome": "ULYANA RAYANA FERREIRA DOS SANTOS",
+    "funcao": "ENFERMEIRO",
+    "setor": "U.B.S JATUARANA - IOLENE TEIXEIRA."
+  },
+  {
+    "nome": "VALDENILSON LIMA MACHADO DA SILVA",
+    "funcao": "MARINHEIRO FLUVIAL DE COMANDO",
+    "setor": "U.B.S SANTA MARIA"
+  },
+  {
+    "nome": "VALDENORA DA SILVA PIMENTEL",
+    "funcao": "TECNICO EM ENFERMAGEM",
+    "setor": "U.B.S PACOVAL"
+  },
+  {
+    "nome": "VALDILEIDE AIRES DE ARAUJO",
+    "funcao": "ENFERMEIRO",
+    "setor": "U.B.S SAO SEBASTIÃO"
+  },
+  {
+    "nome": "VALDILENE BATISTA DE CARVALHO",
+    "funcao": "TECNICO EM ENFERMAGEM",
+    "setor": "U.M.S. WILSON RIBEIRO"
+  },
+  {
+    "nome": "VALDILENE DE OLIVEIRA FERREIRA",
+    "funcao": "PEDAGOGO(A)",
+    "setor": "CAPS"
+  },
+  {
+    "nome": "VALDINEIA RODRIGUES DA CONCEICAO",
+    "funcao": "TECNICO EM ENFERMAGEM",
+    "setor": "U.B.S. BOA VISTA DE CUCARI"
+  },
+  {
+    "nome": "VALERIA BATISTA MACHADO",
+    "funcao": "AGENTE COMUNITARIO DE SAUDE",
+    "setor": "U.B.S. BOA VISTA DE CUCARI"
+  },
+  {
+    "nome": "VALMERINDA GONCALVES CALDEIRA",
+    "funcao": "AGENTE COMUNITARIO DE SAUDE",
+    "setor": "RIBEIRINHA"
+  },
+  {
+    "nome": "VALQUIRIA CORREA NEVES",
+    "funcao": "AGENTE COMUNITARIO DE SAUDE",
+    "setor": "U.B.S. BOA VISTA DE CUCARI"
+  },
+  {
+    "nome": "VANESSA ANDRADE MENDES",
+    "funcao": "ENFERMEIRO",
+    "setor": "U.B.S SANTA MARIA"
+  },
+  {
+    "nome": "VANILDO DE OLIVEIRA FERREIRA",
+    "funcao": "VIGIA",
+    "setor": "U.B.S SANTA MARIA"
+  },
+  {
+    "nome": "VANUBIA PEREIRA DA SILVA",
+    "funcao": "SERVICOS GERAIS",
+    "setor": "U.M.S. WILSON RIBEIRO"
+  },
+  {
+    "nome": "VANUSA REGO DOS SANTOS",
+    "funcao": "AGENTE COMUNITARIO DE SAUDE",
+    "setor": "U.B.S. BOA VISTA DE CUCARI"
+  },
+  {
+    "nome": "VICO DE SOUZA MIRANDA",
+    "funcao": "TECNICO EM ENFERMAGEM",
+    "setor": "SEDE"
+  },
+  {
+    "nome": "WAGNER SILVA BRAGA",
+    "funcao": "MOTORISTA - CAT. B",
+    "setor": "U.B.S. BOA VISTA DE CUCARI"
+  },
+  {
+    "nome": "WALDIMARA NOGUEIRA DOS SANTOS",
+    "funcao": "AGENTE COMUNITARIO DE SAUDE",
+    "setor": "U.B.S. BOA VISTA DE CUCARI"
+  },
+  {
+    "nome": "WALEF MARQUES DA MOTA",
+    "funcao": "TECNICO EM ENFERMAGEM",
+    "setor": "U.B.S SANTA MARIA"
+  },
+  {
+    "nome": "WALLACY SILVA DOS SANTOS",
+    "funcao": "TECNICO EM ENFERMAGEM",
+    "setor": "U.B.S PACOVAL"
+  },
+  {
+    "nome": "WANDERSON CARLOS CALDEIRA LIMA",
+    "funcao": "VIGIA",
+    "setor": "U.B.S. SERGIO AMARAL PINGARILHO"
+  },
+  {
+    "nome": "WANDRA JAME PEREIRA TORRES",
+    "funcao": "AGENTE COMUNITARIO DE SAUDE",
+    "setor": "Equi. Prainha"
+  },
+  {
+    "nome": "WBILA CLARISSA DA SILVA FLEXA",
+    "funcao": "ENFERMEIRO",
+    "setor": "U.B.S. SERGIO AMARAL PINGARILHO"
+  },
+  {
+    "nome": "WENNEDE LEONARDO SILVA",
+    "funcao": "MOTORISTA - CAT. B",
+    "setor": "U.B.S PACOVAL"
+  },
+  {
+    "nome": "WESLEY JESSE CORREA DE MIRANDA",
+    "funcao": "CIRURGIAO DENTISTA",
+    "setor": "SEDE"
+  },
+  {
+    "nome": "WESLON SIVIRINO LIMEIRA",
+    "funcao": "MOTORISTA - CAT. B",
+    "setor": "COLONIA"
+  },
+  {
+    "nome": "WILFREDO AZEVEDO DE MEDEIROS",
+    "funcao": "TECNICO EM ENFERMAGEM",
+    "setor": "MELHOR EM CASA"
+  },
+  {
+    "nome": "WILLIAM KEVIN VIEIRA DE LIMA",
+    "funcao": "TECNICO EM ENFERMAGEM",
+    "setor": "U.M.S. WILSON RIBEIRO"
+  },
+  {
+    "nome": "WILMA AZEVEDO SANTOS",
+    "funcao": "ENFERMEIRO",
+    "setor": "U.B.S PACOVAL"
+  },
+  {
+    "nome": "YANA BEATRIZ OTONI BENTO",
+    "funcao": "TECNICO EM ENFERMAGEM",
+    "setor": "SEDE"
+  },
+  {
+    "nome": "ZIDANE DOS SANTOS SILVA",
+    "funcao": "VIGIA",
+    "setor": "SEDE"
+  },
+  {
+    "nome": "ZILMA FURTADO PIRES",
+    "funcao": "TECNICO EM ENFERMAGEM",
+    "setor": "U.M.S. WILSON RIBEIRO"
+  },
+  {
+    "nome": "ANDREW CRISTIAN NASCIMENTO DE CARVALHO",
+    "funcao": "TECNICO EM ENFERMAGEM",
+    "setor": "U.B.S. BOA VISTA DE CUCARI"
+  },
+  {
+    "nome": "ALESSANDRA DA COSTA MENDES",
+    "funcao": "TECNICO EM ENFERMAGEM",
+    "setor": "U.B.S. BOA VISTA DE CUCARI"
+  },
+  {
+    "nome": "RODRIGO CARDOSO DE BRITO",
+    "funcao": "",
+    "setor": "U.B.S. BOA VISTA DE CUCARI"
+  },
+  {
+    "nome": "480",
+    "funcao": "",
+    "setor": ""
+  }
+]
