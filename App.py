@@ -90,8 +90,9 @@ else:
         "Escolha uma Ação",
         [
             "Visualizar Escala Geral",
-            "Gerenciar Coordenadores",
-            "Gerenciar Servidores (Colaboradores)",
+            "Cadastrar Novo Coordenador",
+            "Cadastrar Novo Servidor",
+            "Alterar Setor de Servidor",
             "Importar Colaboradores via JSON",
             "Gerar Relatórios"
         ]
@@ -111,132 +112,74 @@ else:
             if reg.get("historico_alteracao"):
               st.caption(f"⚠️ Status: {reg['historico_alteracao']}")
 
-    elif menu_master == "Gerar Coordenadores":
-      st.subheader("👥 Gerenciamento de Coordenadores")
-      
-      sub_opcao_coord = st.radio("O que deseja fazer?", ["Cadastrar Novo", "Consultar / Alterar / Excluir"], horizontal=True)
+    elif menu_master == "Cadastrar Novo Coordenador":
+      st.subheader("➕ Cadastrar Novo Coordenador")
+      with st.form("form_cad_coord"):
+        novo_user = st.text_input("Nome de usuário (Login)").strip().lower()
+        novo_nome = st.text_input("Nome Completo").strip()
+        novo_setor = st.text_input("Setor do Coordenador").strip()
+        nova_senha = st.text_input("Senha Inicial", type="password").strip()
+        cadastrar_btn = st.form_submit_button("Salvar Coordenador")
 
-      if sub_opcao_coord == "Cadastrar Novo":
-        with st.form("form_cad_coord"):
-          novo_user = st.text_input("Nome de usuário (Login)").strip().lower()
-          novo_nome = st.text_input("Nome Completo").strip()
-          novo_setor = st.text_input("Setor do Coordenador").strip()
-          nova_senha = st.text_input("Senha Inicial", type="password").strip()
-          cadastrar_btn = st.form_submit_button("Salvar Coordenador")
+        if cadastrar_btn:
+          if not novo_user or not novo_nome or not novo_setor or not nova_senha:
+            st.warning("Preencha todos os campos.")
+          elif novo_user in dados["usuarios"]:
+            st.error(f"O usuário '{novo_user}' já existe.")
+          else:
+            dados["usuarios"][novo_user] = {
+                "senha": nova_senha,
+                "tipo": "coordenador",
+                "nome": novo_nome,
+                "setor": novo_setor,
+            }
+            salvar_dados(dados)
+            st.success(f"Coordenador '{novo_nome}' cadastrado com sucesso!")
 
-          if cadastrar_btn:
-            if not novo_user or not novo_nome or not novo_setor or not nova_senha:
-              st.warning("Preencha todos os campos.")
-            elif novo_user in dados["usuarios"]:
-              st.error(f"O usuário '{novo_user}' já existe.")
-            else:
-              dados["usuarios"][novo_user] = {
-                  "senha": nova_senha,
-                  "tipo": "coordenador",
-                  "nome": novo_nome,
-                  "setor": novo_setor,
-              }
-              salvar_dados(dados)
-              st.success(f"Coordenador '{novo_nome}' cadastrado com sucesso!")
-              st.rerun()
+    elif menu_master == "Cadastrar Novo Servidor":
+      st.subheader("👤 Cadastrar Novo Servidor")
+      with st.form("form_cad_servidor"):
+        s_nome = st.text_input("Nome Completo do Servidor").strip().upper()
+        s_setor = st.text_input("Setor / Lotação").strip()
+        s_btn = st.form_submit_button("Cadastrar Servidor")
 
+        if s_btn:
+          if not s_nome or not s_setor:
+            st.warning("Preencha todos os campos.")
+          elif any(c["nome"].lower() == s_nome.lower() for c in dados["colaboradores"]):
+            st.error(f"O servidor '{s_nome}' já está cadastrado.")
+          else:
+            dados["colaboradores"].append({"nome": s_nome, "setor": s_setor})
+            salvar_dados(dados)
+            st.success(f"Servidor '{s_nome}' cadastrado com sucesso!")
+
+    elif menu_master == "Alterar Setor de Servidor":
+      st.subheader("🔄 Alterar Setor de um Servidor")
+      if not dados["colaboradores"]:
+        st.info("Nenhum colaborador cadastrado.")
       else:
-        # Listar coordenadores (exceto admin master)
-        lista_coords = [u for u in dados["usuarios"] if dados["usuarios"][u]["tipo"] == "coordenador"]
-        if not lista_coords:
-          st.info("Nenhum coordenador cadastrado.")
-        else:
-          coord_escolhido = st.selectbox("Selecione o Coordenador", lista_coords)
-          dados_coord = dados["usuarios"][coord_escolhido]
-
-          with st.form("form_edita_coord"):
-            st.write(f"Editando usuário de login: **{coord_escolhido}**")
-            edit_nome = st.text_input("Nome Completo", value=dados_coord["nome"])
-            edit_setor = st.text_input("Setor", value=dados_coord["setor"])
-            edit_senha = st.text_input("Nova Senha (deixe em branco para manter a atual)", type="password").strip()
-            
-            col_b1, col_b2 = st.columns(2)
-            btn_salvar = col_b1.form_submit_button("💾 Salvar Alterações")
-            btn_excluir = col_b2.form_submit_button("🗑️ Excluir Coordenador", type="primary")
-
-            if btn_salvar:
-              dados["usuarios"][coord_escolhido]["nome"] = edit_nome
-              dados["usuarios"][coord_escolhido]["setor"] = edit_setor
-              if edit_senha:
-                dados["usuarios"][coord_escolhido]["senha"] = edit_senha
-              salvar_dados(dados)
-              st.success("Dados do coordenador atualizados com sucesso!")
-              st.rerun()
-
-            if btn_excluir:
-              del dados["usuarios"][coord_escolhido]
-              salvar_dados(dados)
-              st.success("Coordenador excluído com sucesso!")
-              st.rerun()
-
-    elif menu_master == "Gerenciar Servidores (Colaboradores)":
-      st.subheader("👤 Gerenciamento de Servidores")
-      
-      sub_opcao_serv = st.radio("O que deseja fazer?", ["Cadastrar Novo", "Consultar / Alterar Setor / Excluir"], horizontal=True)
-
-      if sub_opcao_serv == "Cadastrar Novo":
-        with st.form("form_cad_servidor"):
-          s_nome = st.text_input("Nome Completo do Servidor").strip().upper()
-          s_setor = st.text_input("Setor / Lotação").strip()
-          s_btn = st.form_submit_button("Cadastrar Servidor")
-
-          if s_btn:
-            if not s_nome or not s_setor:
-              st.warning("Preencha todos os campos.")
-            elif any(c["nome"].lower() == s_nome.lower() for c in dados["colaboradores"]):
-              st.error(f"O servidor '{s_nome}' já está cadastrado.")
-            else:
-              dados["colaboradores"].append({"nome": s_nome, "setor": s_setor})
-              salvar_dados(dados)
-              st.success(f"Servidor '{s_nome}' cadastrado com sucesso!")
-              st.rerun()
-
-      else:
-        if not dados["colaboradores"]:
-          st.info("Nenhum servidor cadastrado.")
-        else:
-          nomes_colabs = [c["nome"] for c in dados["colaboradores"]]
-          serv_escolhido = st.selectbox("Selecione o Servidor", nomes_colabs)
-          
-          servidor_obj = next(c for c in dados["colaboradores"] if c["nome"] == serv_escolhido)
-
-          with st.form("form_edita_serv"):
-            edit_nome_serv = st.text_input("Nome do Servidor", value=servidor_obj["nome"])
-            edit_setor_serv = st.text_input("Setor do Servidor", value=servidor_obj["setor"])
-            
-            col_s1, col_s2 = st.columns(2)
-            btn_salvar_serv = col_s1.form_submit_button("💾 Salvar Alterações")
-            btn_excluir_serv = col_s2.form_submit_button("🗑️ Excluir Servidor", type="primary")
-
-            if btn_salvar_serv:
-              nome_antigo = servidor_obj["nome"]
-              servidor_obj["nome"] = edit_nome_serv.upper()
-              servidor_obj["setor"] = edit_setor_serv
-              
-              # Atualizar nos registros ativos se houver correspondência
-              for reg in dados["registros"]:
-                if reg["nome"].lower() == nome_antigo.lower():
-                  reg["nome"] = edit_nome_serv.upper()
-                  reg["setor"] = edit_setor_serv
-
-              salvar_dados(dados)
-              st.success("Servidor atualizado com sucesso!")
-              st.rerun()
-
-            if btn_excluir_serv:
-              dados["colaboradores"] = [c for c in dados["colaboradores"] if c["nome"] != serv_escolhido]
-              salvar_dados(dados)
-              st.success("Servidor excluído com sucesso!")
-              st.rerun()
+        nomes_colabs = [c["nome"] for c in dados["colaboradores"]]
+        colab_selecionado = st.selectbox("Selecione o Servidor", nomes_colabs)
+        
+        servidor_obj = next(c for c in dados["colaboradores"] if c["nome"] == colab_selecionado)
+        st.write(f"Setor Atual: **{servidor_obj['setor']}**")
+        
+        novo_setor_serv = st.text_input("Novo Setor").strip()
+        if st.button("Atualizar Setor"):
+          if not novo_setor_serv:
+            st.warning("Informe o novo setor.")
+          else:
+            servidor_obj["setor"] = novo_setor_serv
+            for reg in dados["registros"]:
+              if reg["nome"].lower() == servidor_obj["nome"].lower():
+                reg["setor"] = novo_setor_serv
+            salvar_dados(dados)
+            st.success("Setor alterado com sucesso!")
+            st.rerun()
 
     elif menu_master == "Importar Colaboradores via JSON":
       st.subheader("📂 Importar Colaboradores via JSON")
-      caminho_json = st.text_input("Caminho ou Nome do Arquivo JSON (ex: funcionarios1.json)").strip()
+      caminho_json = st.text_input("Caminho ou Nome do Arquivo JSON (ex: funcionarios.json)").strip()
       if st.button("Importar"):
         if os.path.exists(caminho_json):
           try:
@@ -244,7 +187,7 @@ else:
               lista_imp = json.load(f)
             contador = 0
             for item in lista_imp:
-              n = str(item.get("nome", "")).strip().upper()
+              n = str(item.get("nome", "")).strip()
               s = str(item.get("setor", "")).strip() or str(item.get("lotacao", "")).strip()
               if n and not any(c["nome"].lower() == n.lower() for c in dados["colaboradores"]):
                 dados["colaboradores"].append({"nome": n, "setor": s})
@@ -267,6 +210,7 @@ else:
         col1, col2 = st.columns(2)
         
         with col1:
+          # CSV em Memória para Download Direto
           output_csv = io.StringIO()
           escritor = csv.writer(output_csv, delimiter=";")
           escritor.writerow(["Colaborador", "Setor", "Coordenador", "HE 50%", "HE 100%", "Sobreaviso Líq (h)", "Falta", "Férias", "Atestado"])
@@ -281,6 +225,7 @@ else:
           )
 
         with col2:
+          # XLSX em Memória para Download Direto
           wb = openpyxl.Workbook()
           ws = wb.active
           ws.title = "Relatório Geral"
